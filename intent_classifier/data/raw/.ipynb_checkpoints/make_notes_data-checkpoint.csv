@@ -1,0 +1,1102 @@
+,text,intent
+0,Summarize these notes for me,make_notes
+1,Please make notes from this image,make_notes
+2,Can you extract notes from this handwriting?,make_notes
+3,Convert this photo into neat notes,make_notes
+4,Create study notes from this page,make_notes
+5,I need a summary of these handwritten notes,make_notes
+6,Turn this picture into organized notes,make_notes
+7,Can you write notes from this scan?,make_notes
+8,Generate clean notes from this image,make_notes
+9,Summarize what's written here,make_notes
+10,OCR and make notes from this document,make_notes
+11,Extract text and make proper notes,make_notes
+12,Write a summary of these notes,make_notes
+13,Turn this document image into readable notes,make_notes
+14,Analyze this photo and generate notes,make_notes
+15,Make proper formatted notes from this,make_notes
+16,Clean and summarize these notes,make_notes
+17,Get notes out of this handwriting,make_notes
+18,"Hey GPT, summarize this for me",make_notes
+19,Transform this pic into digital notes,make_notes
+20,Can you convert this into a clean note format?,make_notes
+21,I'd like to make notes from this image,make_notes
+22,Generate quick notes from this scan,make_notes
+23,Can you summarize these paragraphs?,make_notes
+24,Summarize this and format it as notes,make_notes
+25,"From this image, make a bullet-point summary",make_notes
+26,OCR and summarize the content,make_notes
+27,Make digital notes from this rough page,make_notes
+28,Turn this into properly formatted notes,make_notes
+29,Please generate clean study notes,make_notes
+30,Extract information and make notes,make_notes
+31,Can you clean this up and give notes?,make_notes
+32,Turn this page into a summarized note,make_notes
+33,Can I get a summary from this paper?,make_notes
+34,Make a structured summary out of this,make_notes
+35,Analyze this content and make notes,make_notes
+36,I'd like a summary of this handwritten material,make_notes
+37,Take this scan and make nice notes,make_notes
+38,Process this image and write short notes,make_notes
+39,Make concise notes from this image,make_notes
+40,Generate clear points from this image,make_notes
+41,Can you summarize this handwritten text?,make_notes
+42,Please format this into lecture notes,make_notes
+43,Give me the points from this content,make_notes
+44,Create notes out of this content,make_notes
+45,Summarize this image using OCR,make_notes
+46,Take this input and create notes,make_notes
+47,Summarize and organize this writing,make_notes
+48,Generate highlights from this text image,make_notes
+49,Can you make study notes from this?,make_notes
+50,Convert this image text to summarized points,make_notes
+51,Can you generate notes from this?,make_notes
+52,Please summarize the content of this image,make_notes
+53,I need a short version of this text,make_notes
+54,Turn this page into notes,make_notes
+55,Make short notes out of this image,make_notes
+56,Generate points from this document,make_notes
+57,What are the key points from this?,make_notes
+58,Create summary notes for this content,make_notes
+59,Read this and make notes,make_notes
+60,Please condense this into bullet points,make_notes
+61,Convert this text into note format,make_notes
+62,Extract highlights from this,make_notes
+63,Note down the important parts,make_notes
+64,Summarize what's written here,make_notes
+65,Give me a quick summary of this,make_notes
+66,Make study notes from this,make_notes
+67,Break this down into notes,make_notes
+68,Scan this and give me notes,make_notes
+69,Turn this into a summary for revision,make_notes
+70,Pick out important details from this,make_notes
+71,I want notes for this topic,make_notes
+72,Help me convert this into a notes format,make_notes
+73,Extract useful points from this page,make_notes
+74,Get me a summary based on this image,make_notes
+75,Create concise notes from this input,make_notes
+76,Take this and make it into study notes,make_notes
+77,Give an overview of the content here,make_notes
+78,Give me main points from this document,make_notes
+79,Can you extract notes from the uploaded file?,make_notes
+80,Need a short note on this content,make_notes
+81,Summarize the image text into notes,make_notes
+82,Give me a list of main points from this image,make_notes
+83,Help summarize this paper,make_notes
+84,Make notes from this screenshot,make_notes
+85,Simplify and summarize this document,make_notes
+86,I need help converting this into note form,make_notes
+87,Get me the core ideas from this,make_notes
+88,Turn these paragraphs into notes,make_notes
+89,Give me condensed notes for this,make_notes
+90,Extract and organize key information from this,make_notes
+91,List out all key points mentioned here,make_notes
+92,Give a note summary of the below content,make_notes
+93,Generate summarized version of this,make_notes
+94,Make crisp notes from the below data,make_notes
+95,Analyze and return the notes,make_notes
+96,Extract notes from scanned file,make_notes
+97,Parse this image and create a note,make_notes
+98,What are the main takeaways from this?,make_notes
+99,Turn this educational content into notes,make_notes
+100,Transform this into revision notes,make_notes
+101,hey get notes from image from this,make_notes
+102,will you create notes using OCR,make_notes
+103,hey summarize this ASAP,make_notes
+104,will you create notes .,make_notes
+105,can you convert image to notes from this image,make_notes
+106,will you make notes quickly,make_notes
+107,please extract notes using OCR,make_notes
+108,would you kindly convert image to notes .,make_notes
+109,can u make notes for me,make_notes
+110,will you extract notes from this image,make_notes
+111,could you get notes from image using OCR,make_notes
+112,will you create notes from this image,make_notes
+113,convert image to notes from scanned image,make_notes
+114,I'd like to make a summary quickly,make_notes
+115,I want to convert image to notes using OCR,make_notes
+116,can I summarize this image .,make_notes
+117,can I make a summary from this,make_notes
+118,hey create notes quickly,make_notes
+119,hey summarize this for me,make_notes
+120,please extract notes now,make_notes
+121,can u make a summary from picture,make_notes
+122,would you kindly extract notes now,make_notes
+123,could you summarize this for me,make_notes
+124,can I get notes from image from scanned image,make_notes
+125,generate notes for me,make_notes
+126,I'd like to generate summary ASAP,make_notes
+127,could you make notes from photo,make_notes
+128,can I create notes from picture,make_notes
+129,would you kindly get notes from image from this image,make_notes
+130,will you make notes quickly,make_notes
+131,I'd like to make a summary for me,make_notes
+132,I want to convert image to notes from picture,make_notes
+133,could you get notes from image quickly,make_notes
+134,I want to get notes from image from picture,make_notes
+135,can you summarize this from this image,make_notes
+136,will you make notes ASAP,make_notes
+137,would you kindly generate summary from photo,make_notes
+138,can u summarize this now,make_notes
+139,can u make a summary quickly,make_notes
+140,would you kindly generate summary from picture,make_notes
+141,can you extract notes .,make_notes
+142,can u create notes ASAP,make_notes
+143,can I extract notes using OCR,make_notes
+144,can you make a summary now,make_notes
+145,can you make notes quickly,make_notes
+146,would you kindly get notes from image quickly,make_notes
+147,can you summarize this image from picture,make_notes
+148,can u summarize this from this,make_notes
+149,will you generate notes from this,make_notes
+150,I'd like to create notes from this,make_notes
+151,will you make notes using OCR,make_notes
+152,please summarize this automatically,make_notes
+153,please make notes from picture,make_notes
+154,could you generate summary from photo,make_notes
+155,will you create notes now,make_notes
+156,will you summarize this from photo,make_notes
+157,can I generate summary from this image,make_notes
+158,hey summarize this image,make_notes
+159,can I generate notes,make_notes
+160,will you create notes now,make_notes
+161,please generate notes using OCR,make_notes
+162,could you create notes using OCR,make_notes
+163,would you kindly get notes from image from picture,make_notes
+164,please extract notes,make_notes
+165,can I summarize this quickly,make_notes
+166,I want to create notes from photo,make_notes
+167,would you kindly summarize this quickly,make_notes
+168,please make a summary ASAP,make_notes
+169,hey make a summary now,make_notes
+170,I want to generate notes from this,make_notes
+171,please get notes from image using OCR,make_notes
+172,would you kindly get notes from image from photo,make_notes
+173,would you kindly generate summary automatically,make_notes
+174,hey create notes ASAP,make_notes
+175,can u extract notes now,make_notes
+176,please make notes now,make_notes
+177,can I convert image to notes,make_notes
+178,I want to convert image to notes using OCR,make_notes
+179,could you create notes from photo,make_notes
+180,will you make notes now,make_notes
+181,could you make a summary now,make_notes
+182,would you kindly summarize this automatically,make_notes
+183,I'd like to generate summary now,make_notes
+184,can I convert image to notes,make_notes
+185,I'd like to summarize this image automatically,make_notes
+186,would you kindly summarize this image from scanned image,make_notes
+187,I'd like to make a summary from scanned image,make_notes
+188,could you convert image to notes,make_notes
+189,extract notes from scanned image,make_notes
+190,I want to make notes now,make_notes
+191,I want to generate summary from this,make_notes
+192,I'd like to make a summary automatically,make_notes
+193,can I get notes from image,make_notes
+194,can u generate summary automatically,make_notes
+195,I'd like to summarize this .,make_notes
+196,please create notes automatically,make_notes
+197,can you make notes .,make_notes
+198,convert image to notes from photo,make_notes
+199,can u summarize this .,make_notes
+200,can you extract notes automatically,make_notes
+201,hey summarize this image quickly,make_notes
+202,I want to summarize this image,make_notes
+203,can I summarize this image automatically,make_notes
+204,hey create notes quickly,make_notes
+205,will you generate summary for me,make_notes
+206,can u generate notes from this image,make_notes
+207,please extract notes .,make_notes
+208,summarize this from picture,make_notes
+209,I'd like to extract notes automatically,make_notes
+210,hey convert image to notes ASAP,make_notes
+211,can you get notes from image,make_notes
+212,can you extract notes quickly,make_notes
+213,make notes using OCR,make_notes
+214,can you get notes from image automatically,make_notes
+215,would you kindly generate notes for me,make_notes
+216,can u summarize this .,make_notes
+217,I want to create notes from photo,make_notes
+218,can you extract notes from photo,make_notes
+219,could you generate notes using OCR,make_notes
+220,please summarize this image from picture,make_notes
+221,could you get notes from image .,make_notes
+222,I want to extract notes now,make_notes
+223,please generate notes from this,make_notes
+224,hey generate notes quickly,make_notes
+225,will you get notes from image ASAP,make_notes
+226,can I summarize this for me,make_notes
+227,can I get notes from image from scanned image,make_notes
+228,make notes from picture,make_notes
+229,would you kindly summarize this using OCR,make_notes
+230,will you create notes for me,make_notes
+231,I want to convert image to notes ASAP,make_notes
+232,I'd like to generate summary ASAP,make_notes
+233,can I convert image to notes from this,make_notes
+234,can I generate notes quickly,make_notes
+235,generate notes,make_notes
+236,can I create notes ASAP,make_notes
+237,can I generate notes for me,make_notes
+238,can you summarize this now,make_notes
+239,I'd like to make a summary from photo,make_notes
+240,would you kindly generate summary using OCR,make_notes
+241,hey generate notes,make_notes
+242,I want to get notes from image for me,make_notes
+243,I want to summarize this image ASAP,make_notes
+244,would you kindly generate notes for me,make_notes
+245,hey make a summary using OCR,make_notes
+246,can I convert image to notes for me,make_notes
+247,I want to make notes from this,make_notes
+248,I want to create notes from scanned image,make_notes
+249,would you kindly summarize this from scanned image,make_notes
+250,would you kindly convert image to notes automatically,make_notes
+251,I want to extract notes ASAP,make_notes
+252,can u make a summary automatically,make_notes
+253,hey generate notes using OCR,make_notes
+254,will you summarize this image from this image,make_notes
+255,could you get notes from image now,make_notes
+256,could you extract notes for me,make_notes
+257,I'd like to make a summary .,make_notes
+258,will you convert image to notes from scanned image,make_notes
+259,would you kindly summarize this .,make_notes
+260,will you make a summary using OCR,make_notes
+261,will you summarize this from scanned image,make_notes
+262,would you kindly extract notes automatically,make_notes
+263,can u summarize this image automatically,make_notes
+264,can I convert image to notes ASAP,make_notes
+265,hey extract notes from picture,make_notes
+266,can I make notes .,make_notes
+267,hey extract notes from photo,make_notes
+268,hey make a summary from picture,make_notes
+269,will you make a summary for me,make_notes
+270,could you create notes from this,make_notes
+271,could you convert image to notes from this,make_notes
+272,would you kindly make notes using OCR,make_notes
+273,would you kindly summarize this image automatically,make_notes
+274,I'd like to get notes from image ASAP,make_notes
+275,can u generate notes from photo,make_notes
+276,please summarize this image automatically,make_notes
+277,could you generate notes,make_notes
+278,hey convert image to notes now,make_notes
+279,can you generate notes from picture,make_notes
+280,hey summarize this image automatically,make_notes
+281,make a summary .,make_notes
+282,I'd like to generate notes ASAP,make_notes
+283,summarize this from picture,make_notes
+284,hey generate notes from photo,make_notes
+285,can I summarize this image using OCR,make_notes
+286,can u get notes from image from photo,make_notes
+287,would you kindly make a summary quickly,make_notes
+288,can I get notes from image quickly,make_notes
+289,could you summarize this from scanned image,make_notes
+290,can u make notes,make_notes
+291,could you generate summary from scanned image,make_notes
+292,can I generate notes from picture,make_notes
+293,hey generate notes,make_notes
+294,I want to extract notes from photo,make_notes
+295,create notes from this,make_notes
+296,I want to get notes from image for me,make_notes
+297,can u generate notes,make_notes
+298,can you extract notes automatically,make_notes
+299,hey extract notes for me,make_notes
+300,I'd like to summarize this from photo,make_notes
+301,please extract notes .,make_notes
+302,I'd like to make a summary automatically,make_notes
+303,will you summarize this now,make_notes
+304,I want to convert image to notes from this,make_notes
+305,can you get notes from image from this,make_notes
+306,I want to extract notes using OCR,make_notes
+307,I want to generate notes automatically,make_notes
+308,would you kindly generate notes,make_notes
+309,will you convert image to notes from photo,make_notes
+310,will you summarize this image automatically,make_notes
+311,would you kindly get notes from image ASAP,make_notes
+312,can u extract notes,make_notes
+313,will you generate notes now,make_notes
+314,hey extract notes quickly,make_notes
+315,I want to convert image to notes from picture,make_notes
+316,generate notes .,make_notes
+317,please make a summary,make_notes
+318,please summarize this .,make_notes
+319,can you extract notes for me,make_notes
+320,can you convert image to notes from photo,make_notes
+321,I'd like to create notes automatically,make_notes
+322,can I get notes from image from scanned image,make_notes
+323,I'd like to generate notes quickly,make_notes
+324,please get notes from image,make_notes
+325,would you kindly generate summary from this,make_notes
+326,can I create notes ASAP,make_notes
+327,would you kindly extract notes automatically,make_notes
+328,can I create notes from this,make_notes
+329,I want to make notes now,make_notes
+330,will you create notes for me,make_notes
+331,make a summary .,make_notes
+332,make notes,make_notes
+333,can you summarize this image quickly,make_notes
+334,can I summarize this image from photo,make_notes
+335,I'd like to create notes from picture,make_notes
+336,would you kindly convert image to notes .,make_notes
+337,can I get notes from image for me,make_notes
+338,hey make notes ASAP,make_notes
+339,I'd like to summarize this image from this image,make_notes
+340,hey generate summary now,make_notes
+341,would you kindly create notes ASAP,make_notes
+342,could you convert image to notes from scanned image,make_notes
+343,could you extract notes quickly,make_notes
+344,I want to make a summary from picture,make_notes
+345,I'd like to convert image to notes from this,make_notes
+346,would you kindly extract notes ASAP,make_notes
+347,will you get notes from image from this image,make_notes
+348,I'd like to generate notes,make_notes
+349,hey get notes from image from scanned image,make_notes
+350,would you kindly make notes from this,make_notes
+351,will you generate summary now,make_notes
+352,make a summary from this image,make_notes
+353,please summarize this image now,make_notes
+354,can u make a summary from picture,make_notes
+355,could you generate notes from this image,make_notes
+356,create notes using OCR,make_notes
+357,I'd like to create notes .,make_notes
+358,I'd like to generate summary from this image,make_notes
+359,extract notes from photo,make_notes
+360,can I summarize this ASAP,make_notes
+361,summarize this from photo,make_notes
+362,hey get notes from image quickly,make_notes
+363,can I get notes from image ASAP,make_notes
+364,I want to make notes .,make_notes
+365,can u create notes quickly,make_notes
+366,can u generate notes .,make_notes
+367,can you summarize this image from this,make_notes
+368,can u create notes quickly,make_notes
+369,will you summarize this automatically,make_notes
+370,would you kindly summarize this using OCR,make_notes
+371,can I make notes from picture,make_notes
+372,can I summarize this from photo,make_notes
+373,I'd like to make notes quickly,make_notes
+374,I want to generate summary from this,make_notes
+375,can u generate notes from picture,make_notes
+376,can I extract notes now,make_notes
+377,could you make notes using OCR,make_notes
+378,would you kindly make notes now,make_notes
+379,please generate notes from picture,make_notes
+380,can u make notes .,make_notes
+381,hey get notes from image using OCR,make_notes
+382,would you kindly extract notes from this image,make_notes
+383,can I extract notes from picture,make_notes
+384,will you generate notes from this,make_notes
+385,can you create notes for me,make_notes
+386,can I extract notes now,make_notes
+387,generate summary from this,make_notes
+388,could you summarize this image .,make_notes
+389,can you get notes from image ASAP,make_notes
+390,can u generate notes .,make_notes
+391,can you convert image to notes from this image,make_notes
+392,can u make notes now,make_notes
+393,can u extract notes from this,make_notes
+394,please create notes from scanned image,make_notes
+395,will you generate summary from picture,make_notes
+396,can I extract notes for me,make_notes
+397,can I get notes from image from this,make_notes
+398,would you kindly make a summary quickly,make_notes
+399,I want to summarize this image from photo,make_notes
+400,generate summary from this,make_notes
+401,can u make a summary for me,make_notes
+402,I'd like to generate notes now,make_notes
+403,would you kindly convert image to notes .,make_notes
+404,can you create notes from photo,make_notes
+405,can u make notes from scanned image,make_notes
+406,can u convert image to notes from picture,make_notes
+407,can you make a summary now,make_notes
+408,hey convert image to notes from this,make_notes
+409,will you generate notes now,make_notes
+410,would you kindly make notes from this image,make_notes
+411,can I create notes from photo,make_notes
+412,I'd like to convert image to notes from picture,make_notes
+413,I want to summarize this from scanned image,make_notes
+414,hey generate summary from this,make_notes
+415,can u generate notes now,make_notes
+416,I'd like to extract notes ASAP,make_notes
+417,please create notes automatically,make_notes
+418,make a summary ASAP,make_notes
+419,can I extract notes using OCR,make_notes
+420,please extract notes quickly,make_notes
+421,would you kindly make notes ASAP,make_notes
+422,can I make notes from picture,make_notes
+423,convert image to notes automatically,make_notes
+424,I'd like to get notes from image from scanned image,make_notes
+425,hey convert image to notes from picture,make_notes
+426,can u make a summary now,make_notes
+427,would you kindly convert image to notes from scanned image,make_notes
+428,can u get notes from image automatically,make_notes
+429,will you summarize this image for me,make_notes
+430,would you kindly summarize this image from this image,make_notes
+431,please summarize this image .,make_notes
+432,could you summarize this image automatically,make_notes
+433,could you generate notes from picture,make_notes
+434,can I extract notes from this,make_notes
+435,make a summary,make_notes
+436,please create notes ASAP,make_notes
+437,can u create notes from this,make_notes
+438,could you generate summary .,make_notes
+439,can u make notes from this image,make_notes
+440,please get notes from image now,make_notes
+441,generate summary using OCR,make_notes
+442,can you make notes from photo,make_notes
+443,please generate summary automatically,make_notes
+444,can you convert image to notes quickly,make_notes
+445,generate summary from photo,make_notes
+446,can u generate summary .,make_notes
+447,please make notes from scanned image,make_notes
+448,summarize this image now,make_notes
+449,I'd like to convert image to notes now,make_notes
+450,hey summarize this from this image,make_notes
+451,can you get notes from image from photo,make_notes
+452,can u make a summary for me,make_notes
+453,will you summarize this from scanned image,make_notes
+454,hey generate summary now,make_notes
+455,can u generate notes from scanned image,make_notes
+456,hey convert image to notes from photo,make_notes
+457,can I summarize this image from picture,make_notes
+458,I want to summarize this using OCR,make_notes
+459,I'd like to create notes now,make_notes
+460,please convert image to notes from photo,make_notes
+461,can I generate summary ASAP,make_notes
+462,I'd like to make a summary from this image,make_notes
+463,I want to summarize this from photo,make_notes
+464,will you get notes from image quickly,make_notes
+465,will you generate summary using OCR,make_notes
+466,can u summarize this now,make_notes
+467,hey summarize this image from this image,make_notes
+468,can I extract notes,make_notes
+469,will you generate notes from this,make_notes
+470,I want to create notes from scanned image,make_notes
+471,I'd like to generate summary using OCR,make_notes
+472,I want to get notes from image using OCR,make_notes
+473,would you kindly generate summary using OCR,make_notes
+474,I want to generate notes now,make_notes
+475,could you convert image to notes from picture,make_notes
+476,I'd like to generate summary ASAP,make_notes
+477,please generate summary automatically,make_notes
+478,I want to extract notes automatically,make_notes
+479,I'd like to extract notes for me,make_notes
+480,can u make a summary quickly,make_notes
+481,could you generate notes from this image,make_notes
+482,I want to extract notes from picture,make_notes
+483,could you extract notes from this,make_notes
+484,hey generate summary from this,make_notes
+485,summarize this image from this,make_notes
+486,can you summarize this now,make_notes
+487,will you make notes from photo,make_notes
+488,can u summarize this image from picture,make_notes
+489,can u generate summary for me,make_notes
+490,hey generate summary automatically,make_notes
+491,please extract notes from picture,make_notes
+492,can you get notes from image from this,make_notes
+493,would you kindly get notes from image from this,make_notes
+494,I want to summarize this image for me,make_notes
+495,I'd like to create notes quickly,make_notes
+496,can I convert image to notes from photo,make_notes
+497,convert image to notes from photo,make_notes
+498,please extract notes from this image,make_notes
+499,would you kindly get notes from image from scanned image,make_notes
+500,can I summarize this image for me,make_notes
+501,can u get notes from image now,make_notes
+502,could you summarize this image from this image,make_notes
+503,could you generate notes from scanned image,make_notes
+504,I'd like to convert image to notes .,make_notes
+505,can you extract notes from scanned image,make_notes
+506,hey extract notes automatically,make_notes
+507,I want to extract notes now,make_notes
+508,can I extract notes from photo,make_notes
+509,I'd like to make notes now,make_notes
+510,I want to convert image to notes from picture,make_notes
+511,would you kindly convert image to notes quickly,make_notes
+512,would you kindly create notes from scanned image,make_notes
+513,hey summarize this image automatically,make_notes
+514,could you summarize this ASAP,make_notes
+515,would you kindly summarize this image from photo,make_notes
+516,hey get notes from image .,make_notes
+517,can you make a summary now,make_notes
+518,can u summarize this image from this,make_notes
+519,can I generate notes quickly,make_notes
+520,hey get notes from image for me,make_notes
+521,can you generate summary from scanned image,make_notes
+522,can I make a summary from this,make_notes
+523,could you generate summary for me,make_notes
+524,can I create notes using OCR,make_notes
+525,will you generate notes using OCR,make_notes
+526,would you kindly summarize this image now,make_notes
+527,I want to convert image to notes from scanned image,make_notes
+528,would you kindly make notes,make_notes
+529,will you generate summary from picture,make_notes
+530,could you create notes from photo,make_notes
+531,would you kindly make a summary from this image,make_notes
+532,I'd like to generate summary automatically,make_notes
+533,create notes,make_notes
+534,can u extract notes from this image,make_notes
+535,can u summarize this from photo,make_notes
+536,I want to make a summary using OCR,make_notes
+537,I want to summarize this,make_notes
+538,generate notes for me,make_notes
+539,can u extract notes ASAP,make_notes
+540,can you summarize this image from this image,make_notes
+541,please generate notes from picture,make_notes
+542,I'd like to get notes from image,make_notes
+543,could you extract notes from picture,make_notes
+544,I'd like to get notes from image for me,make_notes
+545,could you generate summary for me,make_notes
+546,generate summary from this,make_notes
+547,can u create notes for me,make_notes
+548,could you get notes from image now,make_notes
+549,would you kindly make a summary from this,make_notes
+550,can I summarize this image from this image,make_notes
+551,would you kindly create notes automatically,make_notes
+552,hey get notes from image quickly,make_notes
+553,I'd like to generate summary from picture,make_notes
+554,summarize this image ASAP,make_notes
+555,can I create notes,make_notes
+556,can I make a summary ASAP,make_notes
+557,summarize this image automatically,make_notes
+558,can I summarize this using OCR,make_notes
+559,can I generate notes from scanned image,make_notes
+560,I want to create notes for me,make_notes
+561,can I make a summary for me,make_notes
+562,I want to summarize this image from this image,make_notes
+563,I'd like to make a summary ASAP,make_notes
+564,can you generate notes,make_notes
+565,can u generate notes using OCR,make_notes
+566,please create notes from this image,make_notes
+567,can I make a summary from this image,make_notes
+568,will you convert image to notes from picture,make_notes
+569,can u convert image to notes from picture,make_notes
+570,can u summarize this image now,make_notes
+571,would you kindly summarize this image from this image,make_notes
+572,can you get notes from image now,make_notes
+573,would you kindly generate summary from photo,make_notes
+574,please generate notes now,make_notes
+575,I'd like to extract notes automatically,make_notes
+576,will you make notes for me,make_notes
+577,make a summary from picture,make_notes
+578,can u create notes now,make_notes
+579,can u extract notes from photo,make_notes
+580,hey create notes from photo,make_notes
+581,please generate notes from this,make_notes
+582,please make a summary ASAP,make_notes
+583,convert image to notes quickly,make_notes
+584,can u extract notes from scanned image,make_notes
+585,I'd like to convert image to notes from scanned image,make_notes
+586,hey summarize this image automatically,make_notes
+587,can you make notes from this,make_notes
+588,could you create notes .,make_notes
+589,could you create notes from this,make_notes
+590,will you extract notes from this,make_notes
+591,will you extract notes quickly,make_notes
+592,I want to convert image to notes from this,make_notes
+593,can I make notes .,make_notes
+594,can u summarize this from scanned image,make_notes
+595,can u convert image to notes,make_notes
+596,would you kindly summarize this image from photo,make_notes
+597,summarize this image from picture,make_notes
+598,please summarize this image from scanned image,make_notes
+599,can you extract notes .,make_notes
+600,can I extract notes from picture,make_notes
+601,I'd like to summarize this image from this image,make_notes
+602,can u generate summary ASAP,make_notes
+603,I want to generate summary from scanned image,make_notes
+604,would you kindly summarize this from picture,make_notes
+605,could you summarize this image from picture,make_notes
+606,hey get notes from image from scanned image,make_notes
+607,can I get notes from image from photo,make_notes
+608,will you make a summary for me,make_notes
+609,please summarize this for me,make_notes
+610,will you convert image to notes using OCR,make_notes
+611,hey summarize this from scanned image,make_notes
+612,can I get notes from image now,make_notes
+613,could you generate notes,make_notes
+614,can I get notes from image for me,make_notes
+615,please generate notes using OCR,make_notes
+616,can I summarize this image automatically,make_notes
+617,would you kindly create notes from photo,make_notes
+618,will you get notes from image quickly,make_notes
+619,could you summarize this from scanned image,make_notes
+620,please extract notes now,make_notes
+621,hey summarize this image for me,make_notes
+622,please extract notes from this,make_notes
+623,hey make notes,make_notes
+624,can I convert image to notes from picture,make_notes
+625,can u extract notes from this,make_notes
+626,can you summarize this quickly,make_notes
+627,will you create notes from photo,make_notes
+628,would you kindly summarize this now,make_notes
+629,can you generate notes,make_notes
+630,would you kindly make a summary from this image,make_notes
+631,would you kindly summarize this image quickly,make_notes
+632,convert image to notes from scanned image,make_notes
+633,make a summary from scanned image,make_notes
+634,will you summarize this image using OCR,make_notes
+635,can u convert image to notes from picture,make_notes
+636,hey make a summary now,make_notes
+637,will you convert image to notes from this image,make_notes
+638,I'd like to make notes .,make_notes
+639,I want to make notes from this,make_notes
+640,will you convert image to notes from picture,make_notes
+641,can you create notes .,make_notes
+642,can you extract notes .,make_notes
+643,could you generate summary from picture,make_notes
+644,could you summarize this automatically,make_notes
+645,would you kindly extract notes from photo,make_notes
+646,can u convert image to notes from this image,make_notes
+647,can I create notes automatically,make_notes
+648,can you generate summary using OCR,make_notes
+649,I'd like to extract notes,make_notes
+650,could you convert image to notes for me,make_notes
+651,can I generate summary from scanned image,make_notes
+652,can I extract notes quickly,make_notes
+653,can I summarize this image for me,make_notes
+654,I'd like to generate notes .,make_notes
+655,can u summarize this image now,make_notes
+656,would you kindly summarize this image now,make_notes
+657,could you summarize this now,make_notes
+658,hey get notes from image from picture,make_notes
+659,could you create notes now,make_notes
+660,could you extract notes quickly,make_notes
+661,will you extract notes from photo,make_notes
+662,would you kindly make notes from this image,make_notes
+663,hey get notes from image from this,make_notes
+664,would you kindly summarize this image from this,make_notes
+665,would you kindly generate notes automatically,make_notes
+666,can you summarize this from photo,make_notes
+667,create notes using OCR,make_notes
+668,can u create notes using OCR,make_notes
+669,hey get notes from image from picture,make_notes
+670,I want to generate notes from picture,make_notes
+671,would you kindly generate notes from this,make_notes
+672,get notes from image from picture,make_notes
+673,I'd like to convert image to notes from this,make_notes
+674,will you get notes from image from this image,make_notes
+675,can I get notes from image from this image,make_notes
+676,I want to summarize this ASAP,make_notes
+677,I want to generate notes now,make_notes
+678,can u get notes from image for me,make_notes
+679,I'd like to make notes .,make_notes
+680,will you generate notes,make_notes
+681,can I summarize this image .,make_notes
+682,please make a summary from this image,make_notes
+683,please make notes using OCR,make_notes
+684,can you summarize this image quickly,make_notes
+685,I want to make a summary now,make_notes
+686,summarize this image from this image,make_notes
+687,hey convert image to notes automatically,make_notes
+688,please make a summary from this image,make_notes
+689,I'd like to generate notes for me,make_notes
+690,will you generate notes from photo,make_notes
+691,I'd like to get notes from image from picture,make_notes
+692,could you extract notes from this image,make_notes
+693,can you convert image to notes now,make_notes
+694,please make a summary,make_notes
+695,can u generate summary from picture,make_notes
+696,make a summary .,make_notes
+697,can I make a summary from this image,make_notes
+698,could you make a summary automatically,make_notes
+699,can u create notes now,make_notes
+700,will you summarize this image from this image,make_notes
+701,could you make notes .,make_notes
+702,hey generate notes from photo,make_notes
+703,I'd like to convert image to notes automatically,make_notes
+704,would you kindly create notes from this,make_notes
+705,please convert image to notes from this image,make_notes
+706,can u convert image to notes quickly,make_notes
+707,can I make a summary now,make_notes
+708,would you kindly summarize this automatically,make_notes
+709,hey convert image to notes from this image,make_notes
+710,can I get notes from image from this image,make_notes
+711,please extract notes automatically,make_notes
+712,generate summary,make_notes
+713,generate notes .,make_notes
+714,I'd like to get notes from image automatically,make_notes
+715,I want to extract notes now,make_notes
+716,can you generate notes .,make_notes
+717,I'd like to generate notes .,make_notes
+718,can u make notes quickly,make_notes
+719,I'd like to generate notes quickly,make_notes
+720,hey generate summary from this image,make_notes
+721,I'd like to summarize this image from scanned image,make_notes
+722,would you kindly make a summary quickly,make_notes
+723,I'd like to create notes .,make_notes
+724,can you make notes now,make_notes
+725,summarize this .,make_notes
+726,hey create notes from picture,make_notes
+727,I'd like to get notes from image,make_notes
+728,I want to make a summary from scanned image,make_notes
+729,please make notes now,make_notes
+730,hey summarize this from this image,make_notes
+731,can you generate notes using OCR,make_notes
+732,hey summarize this automatically,make_notes
+733,will you extract notes,make_notes
+734,would you kindly generate summary now,make_notes
+735,I want to make a summary from this image,make_notes
+736,can I summarize this .,make_notes
+737,can u summarize this automatically,make_notes
+738,could you summarize this quickly,make_notes
+739,hey convert image to notes from this,make_notes
+740,will you generate summary automatically,make_notes
+741,hey extract notes automatically,make_notes
+742,hey summarize this from scanned image,make_notes
+743,I'd like to summarize this automatically,make_notes
+744,would you kindly generate notes from scanned image,make_notes
+745,create notes from photo,make_notes
+746,can you summarize this .,make_notes
+747,will you convert image to notes from this image,make_notes
+748,please convert image to notes now,make_notes
+749,I'd like to extract notes from picture,make_notes
+750,please make a summary from scanned image,make_notes
+751,can you summarize this image from this image,make_notes
+752,I want to create notes quickly,make_notes
+753,will you create notes .,make_notes
+754,will you convert image to notes,make_notes
+755,please make notes now,make_notes
+756,could you create notes from picture,make_notes
+757,please generate summary using OCR,make_notes
+758,can I make notes from picture,make_notes
+759,could you make a summary from this image,make_notes
+760,will you create notes for me,make_notes
+761,can I generate summary now,make_notes
+762,extract notes quickly,make_notes
+763,I'd like to convert image to notes from scanned image,make_notes
+764,can u summarize this automatically,make_notes
+765,generate summary quickly,make_notes
+766,can I create notes .,make_notes
+767,make a summary for me,make_notes
+768,can I create notes from photo,make_notes
+769,hey create notes automatically,make_notes
+770,will you create notes from this image,make_notes
+771,can I make a summary for me,make_notes
+772,could you generate summary .,make_notes
+773,would you kindly generate summary using OCR,make_notes
+774,will you get notes from image from this image,make_notes
+775,will you extract notes now,make_notes
+776,make a summary from photo,make_notes
+777,can you summarize this image ASAP,make_notes
+778,create notes .,make_notes
+779,I want to generate summary from this image,make_notes
+780,summarize this from photo,make_notes
+781,can you convert image to notes from scanned image,make_notes
+782,please extract notes for me,make_notes
+783,extract notes quickly,make_notes
+784,can you make notes quickly,make_notes
+785,I want to extract notes,make_notes
+786,would you kindly make notes quickly,make_notes
+787,will you summarize this,make_notes
+788,generate notes from this image,make_notes
+789,hey generate notes automatically,make_notes
+790,could you convert image to notes,make_notes
+791,can you summarize this image .,make_notes
+792,could you extract notes now,make_notes
+793,could you create notes from scanned image,make_notes
+794,will you summarize this image from scanned image,make_notes
+795,hey generate summary from this,make_notes
+796,can u make notes from picture,make_notes
+797,can you generate summary quickly,make_notes
+798,can I extract notes from scanned image,make_notes
+799,please create notes from this image,make_notes
+800,will you generate summary from this,make_notes
+801,can I create notes,make_notes
+802,will you extract notes,make_notes
+803,could you make a summary for me,make_notes
+804,hey make a summary quickly,make_notes
+805,can u summarize this using OCR,make_notes
+806,I want to make notes quickly,make_notes
+807,would you kindly get notes from image from photo,make_notes
+808,summarize this image .,make_notes
+809,I want to create notes from this image,make_notes
+810,hey extract notes for me,make_notes
+811,could you generate summary using OCR,make_notes
+812,make notes now,make_notes
+813,get notes from image from this image,make_notes
+814,hey generate summary using OCR,make_notes
+815,please get notes from image ASAP,make_notes
+816,can I extract notes now,make_notes
+817,I'd like to create notes for me,make_notes
+818,generate notes automatically,make_notes
+819,will you convert image to notes from this,make_notes
+820,please create notes from scanned image,make_notes
+821,I want to make notes quickly,make_notes
+822,I'd like to extract notes now,make_notes
+823,hey create notes from photo,make_notes
+824,will you summarize this for me,make_notes
+825,I'd like to create notes ASAP,make_notes
+826,can I summarize this .,make_notes
+827,would you kindly make notes ASAP,make_notes
+828,can u make a summary from this,make_notes
+829,will you get notes from image automatically,make_notes
+830,hey create notes from picture,make_notes
+831,I want to generate summary .,make_notes
+832,I'd like to generate notes from this image,make_notes
+833,can you create notes automatically,make_notes
+834,I want to summarize this image ASAP,make_notes
+835,will you create notes,make_notes
+836,will you convert image to notes,make_notes
+837,I want to generate notes from this image,make_notes
+838,can u convert image to notes automatically,make_notes
+839,would you kindly extract notes from this,make_notes
+840,can you generate summary from this image,make_notes
+841,please summarize this image .,make_notes
+842,please generate summary now,make_notes
+843,can u get notes from image for me,make_notes
+844,can u create notes from picture,make_notes
+845,I want to generate summary for me,make_notes
+846,hey generate summary automatically,make_notes
+847,please summarize this image from scanned image,make_notes
+848,hey extract notes for me,make_notes
+849,generate notes from this image,make_notes
+850,can you summarize this image automatically,make_notes
+851,could you extract notes from this image,make_notes
+852,summarize this from photo,make_notes
+853,I want to summarize this image now,make_notes
+854,generate summary from this image,make_notes
+855,can u summarize this image,make_notes
+856,please summarize this image for me,make_notes
+857,make notes automatically,make_notes
+858,can u create notes .,make_notes
+859,can u get notes from image from this,make_notes
+860,please make a summary from this,make_notes
+861,make notes for me,make_notes
+862,generate summary .,make_notes
+863,can u generate notes from this,make_notes
+864,could you make notes from picture,make_notes
+865,could you create notes,make_notes
+866,please get notes from image quickly,make_notes
+867,I want to create notes,make_notes
+868,could you summarize this image from photo,make_notes
+869,would you kindly summarize this from this image,make_notes
+870,can u summarize this image from this,make_notes
+871,I want to generate summary using OCR,make_notes
+872,will you convert image to notes,make_notes
+873,would you kindly generate summary from picture,make_notes
+874,can you generate summary from scanned image,make_notes
+875,please generate notes using OCR,make_notes
+876,can u generate notes,make_notes
+877,will you summarize this image using OCR,make_notes
+878,would you kindly summarize this image from picture,make_notes
+879,I want to create notes for me,make_notes
+880,would you kindly summarize this automatically,make_notes
+881,can I generate summary using OCR,make_notes
+882,please generate notes,make_notes
+883,will you make a summary,make_notes
+884,can u convert image to notes from this image,make_notes
+885,I want to create notes,make_notes
+886,can I create notes automatically,make_notes
+887,could you make notes from this image,make_notes
+888,generate summary from scanned image,make_notes
+889,I'd like to extract notes now,make_notes
+890,please generate summary quickly,make_notes
+891,I'd like to summarize this image from this image,make_notes
+892,could you make notes from scanned image,make_notes
+893,can u make notes from this image,make_notes
+894,can you convert image to notes from this image,make_notes
+895,can you make a summary for me,make_notes
+896,generate notes from this,make_notes
+897,would you kindly summarize this from photo,make_notes
+898,can I generate notes,make_notes
+899,summarize this from this,make_notes
+900,can u summarize this image from scanned image,make_notes
+901,I want to extract notes automatically,make_notes
+902,could you create notes,make_notes
+903,can you generate summary from picture,make_notes
+904,I'd like to create notes now,make_notes
+905,can u generate summary from picture,make_notes
+906,can u get notes from image from scanned image,make_notes
+907,can you generate summary,make_notes
+908,can u get notes from image from picture,make_notes
+909,can u summarize this image ASAP,make_notes
+910,make notes using OCR,make_notes
+911,please summarize this from this image,make_notes
+912,can I summarize this image from this,make_notes
+913,generate summary .,make_notes
+914,can u summarize this from photo,make_notes
+915,would you kindly make a summary from scanned image,make_notes
+916,will you summarize this from scanned image,make_notes
+917,can you create notes from picture,make_notes
+918,I'd like to summarize this from this,make_notes
+919,can you make a summary from picture,make_notes
+920,I want to generate notes now,make_notes
+921,would you kindly generate notes from picture,make_notes
+922,I want to get notes from image from scanned image,make_notes
+923,would you kindly convert image to notes now,make_notes
+924,hey extract notes now,make_notes
+925,can you make a summary from this,make_notes
+926,get notes from image from this image,make_notes
+927,I'd like to make notes from this,make_notes
+928,I'd like to generate notes using OCR,make_notes
+929,could you summarize this using OCR,make_notes
+930,hey generate notes automatically,make_notes
+931,I want to generate notes from picture,make_notes
+932,hey generate notes .,make_notes
+933,can you summarize this,make_notes
+934,hey generate summary ASAP,make_notes
+935,can I make a summary ASAP,make_notes
+936,would you kindly make notes from this,make_notes
+937,can you summarize this image from scanned image,make_notes
+938,would you kindly extract notes .,make_notes
+939,can I convert image to notes .,make_notes
+940,can u summarize this image automatically,make_notes
+941,please make a summary using OCR,make_notes
+942,please get notes from image quickly,make_notes
+943,can u extract notes for me,make_notes
+944,can u extract notes from this image,make_notes
+945,would you kindly generate summary automatically,make_notes
+946,would you kindly generate notes from picture,make_notes
+947,summarize this from picture,make_notes
+948,will you convert image to notes quickly,make_notes
+949,could you generate summary automatically,make_notes
+950,can u summarize this image ASAP,make_notes
+951,generate notes .,make_notes
+952,can you make a summary from this image,make_notes
+953,please generate summary for me,make_notes
+954,would you kindly make a summary using OCR,make_notes
+955,would you kindly generate summary,make_notes
+956,will you create notes now,make_notes
+957,could you summarize this from photo,make_notes
+958,can u make notes ASAP,make_notes
+959,hey create notes ASAP,make_notes
+960,hey make notes .,make_notes
+961,would you kindly make a summary using OCR,make_notes
+962,can u make a summary,make_notes
+963,can u make notes .,make_notes
+964,could you generate notes from photo,make_notes
+965,can I summarize this from picture,make_notes
+966,I want to summarize this image using OCR,make_notes
+967,please summarize this using OCR,make_notes
+968,can u get notes from image quickly,make_notes
+969,I want to make a summary from this,make_notes
+970,please make notes from photo,make_notes
+971,could you create notes quickly,make_notes
+972,could you summarize this image from this,make_notes
+973,can you create notes from picture,make_notes
+974,extract notes,make_notes
+975,I'd like to make notes from scanned image,make_notes
+976,make notes from photo,make_notes
+977,hey convert image to notes automatically,make_notes
+978,can I generate summary for me,make_notes
+979,hey make notes .,make_notes
+980,hey get notes from image from this image,make_notes
+981,would you kindly generate summary ASAP,make_notes
+982,convert image to notes ASAP,make_notes
+983,hey generate summary,make_notes
+984,could you generate notes from scanned image,make_notes
+985,could you convert image to notes from this,make_notes
+986,hey generate notes from picture,make_notes
+987,please make notes for me,make_notes
+988,hey generate notes ASAP,make_notes
+989,hey get notes from image from photo,make_notes
+990,I'd like to convert image to notes ASAP,make_notes
+991,I'd like to create notes automatically,make_notes
+992,could you summarize this automatically,make_notes
+993,I'd like to make a summary using OCR,make_notes
+994,will you generate notes,make_notes
+995,will you summarize this for me,make_notes
+996,would you kindly generate summary from picture,make_notes
+997,would you kindly summarize this image,make_notes
+998,can u convert image to notes from picture,make_notes
+999,can you make a summary from photo,make_notes
+1000,can I convert image to notes quickly,make_notes
+1001,can u make a summary from picture,make_notes
+1002,please extract notes from photo,make_notes
+1003,I want to generate summary from this,make_notes
+1004,I want to make a summary quickly,make_notes
+1005,would you kindly convert image to notes ASAP,make_notes
+1006,can you create notes now,make_notes
+1007,please make a summary from picture,make_notes
+1008,would you kindly extract notes automatically,make_notes
+1009,will you extract notes,make_notes
+1010,hey generate summary from photo,make_notes
+1011,would you kindly summarize this image from picture,make_notes
+1012,please get notes from image,make_notes
+1013,can u make notes using OCR,make_notes
+1014,will you summarize this from this,make_notes
+1015,will you summarize this ASAP,make_notes
+1016,could you summarize this ASAP,make_notes
+1017,generate notes using OCR,make_notes
+1018,I'd like to make notes for me,make_notes
+1019,please get notes from image,make_notes
+1020,I'd like to extract notes,make_notes
+1021,can I summarize this from photo,make_notes
+1022,can u generate summary from picture,make_notes
+1023,can u generate notes from this,make_notes
+1024,would you kindly extract notes from scanned image,make_notes
+1025,can I generate notes from scanned image,make_notes
+1026,I'd like to convert image to notes from this,make_notes
+1027,will you get notes from image from scanned image,make_notes
+1028,will you generate summary from this,make_notes
+1029,can I make a summary from this,make_notes
+1030,could you make a summary now,make_notes
+1031,I'd like to summarize this from this,make_notes
+1032,hey make a summary quickly,make_notes
+1033,would you kindly make a summary quickly,make_notes
+1034,I'd like to generate summary,make_notes
+1035,will you summarize this now,make_notes
+1036,can u make a summary quickly,make_notes
+1037,I want to summarize this from this,make_notes
+1038,please make a summary for me,make_notes
+1039,hey convert image to notes from this image,make_notes
+1040,please make a summary from this image,make_notes
+1041,could you summarize this .,make_notes
+1042,I'd like to generate notes using OCR,make_notes
+1043,would you kindly get notes from image from scanned image,make_notes
+1044,can I get notes from image quickly,make_notes
+1045,summarize this now,make_notes
+1046,will you generate summary from photo,make_notes
+1047,can you summarize this for me,make_notes
+1048,can you make notes quickly,make_notes
+1049,can u generate summary,make_notes
+1050,I want to make a summary from this image,make_notes
+1051,would you kindly make notes quickly,make_notes
+1052,please summarize this ASAP,make_notes
+1053,would you kindly generate summary for me,make_notes
+1054,can you generate summary now,make_notes
+1055,I want to generate notes ASAP,make_notes
+1056,could you extract notes automatically,make_notes
+1057,can I summarize this,make_notes
+1058,could you extract notes using OCR,make_notes
+1059,will you convert image to notes quickly,make_notes
+1060,get notes from image from scanned image,make_notes
+1061,I'd like to get notes from image from picture,make_notes
+1062,can I get notes from image for me,make_notes
+1063,I'd like to generate notes ASAP,make_notes
+1064,can u convert image to notes now,make_notes
+1065,summarize this from this,make_notes
+1066,can u generate notes for me,make_notes
+1067,could you make notes for me,make_notes
+1068,I want to extract notes from photo,make_notes
+1069,will you summarize this quickly,make_notes
+1070,can I extract notes ASAP,make_notes
+1071,could you convert image to notes now,make_notes
+1072,please summarize this for me,make_notes
+1073,hey extract notes from this image,make_notes
+1074,I want to convert image to notes from this image,make_notes
+1075,I want to generate summary,make_notes
+1076,hey generate summary from scanned image,make_notes
+1077,hey summarize this image from photo,make_notes
+1078,would you kindly make notes,make_notes
+1079,could you extract notes from scanned image,make_notes
+1080,would you kindly summarize this image from picture,make_notes
+1081,please convert image to notes from photo,make_notes
+1082,I'd like to generate notes from this,make_notes
+1083,hey summarize this,make_notes
+1084,I want to summarize this .,make_notes
+1085,I want to summarize this image ASAP,make_notes
+1086,I want to generate notes .,make_notes
+1087,I'd like to summarize this image for me,make_notes
+1088,could you generate notes .,make_notes
+1089,can you make a summary from scanned image,make_notes
+1090,please make a summary from this,make_notes
+1091,I want to generate notes now,make_notes
+1092,can I make notes from scanned image,make_notes
+1093,I'd like to summarize this image now,make_notes
+1094,will you get notes from image,make_notes
+1095,make a summary automatically,make_notes
+1096,hey create notes for me,make_notes
+1097,please create notes ASAP,make_notes
+1098,can you make a summary automatically,make_notes
+1099,I want to make notes from photo,make_notes
+1100,will you extract notes from this,make_notes

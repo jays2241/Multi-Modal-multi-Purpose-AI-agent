@@ -1,0 +1,1244 @@
+,text,intent,clean_text
+0,I'd love to hear this read out loud,convert_to_audio,id love to hear this read out loud
+1,Could you turn this script into an audio file?,convert_to_audio,could you turn this script into an audio file
+2,Please make this sentence audible,convert_to_audio,please make this sentence audible
+3,Transform these lines into voice format,convert_to_audio,transform these lines into voice format
+4,Produce an MP3 from this message,convert_to_audio,produce an mp3 from this message
+5,Is it possible to vocalize this content?,convert_to_audio,is it possible to vocalize this content
+6,Say these words out loud,convert_to_audio,say these words out loud
+7,Turn the following into an audio clip,convert_to_audio,turn the following into an audio clip
+8,I’d appreciate a voice version of this,convert_to_audio,id appreciate a voice version of this
+9,Generate a sound file of this,convert_to_audio,generate a sound file of this
+10,Convert the note below into speech,convert_to_audio,convert the note below into speech
+11,"Speak this for me, please",convert_to_audio,speak this for me please
+12,Give me a narrated version of this content,convert_to_audio,give me a narrated version of this content
+13,Please render this paragraph into voice,convert_to_audio,please render this paragraph into voice
+14,Make a recording of this content,convert_to_audio,make a recording of this content
+15,How does this sound when spoken?,convert_to_audio,how does this sound when spoken
+16,Can you output this as an MP3?,convert_to_audio,can you output this as an mp3
+17,Speak this document out loud,convert_to_audio,speak this document out loud
+18,Create a podcast version of this text,convert_to_audio,create a podcast version of this text
+19,I'd like to listen to this in spoken form,convert_to_audio,id like to listen to this in spoken form
+20,Convert my notes into a voice memo,convert_to_audio,convert my notes into a voice memo
+21,Can this text be transformed into audio?,convert_to_audio,can this text be transformed into audio
+22,Give me a voice-over version of this note,convert_to_audio,give me a voiceover version of this note
+23,I need to hear this out loud,convert_to_audio,i need to hear this out loud
+24,Audioify this content,convert_to_audio,audioify this content
+25,Please give me a voice representation of this,convert_to_audio,please give me a voice representation of this
+26,Create a verbal output for this,convert_to_audio,create a verbal output for this
+27,Play the spoken version of these lines,convert_to_audio,play the spoken version of these lines
+28,I'd like a read-aloud of this,convert_to_audio,id like a readaloud of this
+29,Vocalize these sentences for me,convert_to_audio,vocalize these sentences for me
+30,Turn this paragraph into speech format,convert_to_audio,turn this paragraph into speech format
+31,Make a podcast reading of this note,convert_to_audio,make a podcast reading of this note
+32,Give this note a voice,convert_to_audio,give this note a voice
+33,Turn the content into an audible clip,convert_to_audio,turn the content into an audible clip
+34,Read this script in a podcast style,convert_to_audio,read this script in a podcast style
+35,I'd like an audio narration of this paragraph,convert_to_audio,id like an audio narration of this paragraph
+36,Please convert this article to sound,convert_to_audio,please convert this article to sound
+37,Convert the following sentence into audio output,convert_to_audio,convert the following sentence into audio output
+38,Let me hear what this text sounds like,convert_to_audio,let me hear what this text sounds like
+39,Read this in your voice,convert_to_audio,read this in your voice
+40,Speak out the paragraph below,convert_to_audio,speak out the paragraph below
+41,Please convert my document into a voice file,convert_to_audio,please convert my document into a voice file
+42,I want to listen to these sentences,convert_to_audio,i want to listen to these sentences
+43,Please provide an audio narration,convert_to_audio,please provide an audio narration
+44,Turn this into speech audio format,convert_to_audio,turn this into speech audio format
+45,Read out my writing in voice,convert_to_audio,read out my writing in voice
+46,Audio playback required for this content,convert_to_audio,audio playback required for this content
+47,Give an oral version of this file,convert_to_audio,give an oral version of this file
+48,Speak this section like a narrator would,convert_to_audio,speak this section like a narrator would
+49,Let me hear how this reads,convert_to_audio,let me hear how this reads
+50,I want an audible playback of these notes,convert_to_audio,i want an audible playback of these notes
+51,Can you sound this paragraph?,convert_to_audio,can you sound this paragraph
+52,Convert and vocalize this script,convert_to_audio,convert and vocalize this script
+53,Voice message required for the following,convert_to_audio,voice message required for the following
+54,Turn these lines into a speech clip,convert_to_audio,turn these lines into a speech clip
+55,Could you say these notes aloud?,convert_to_audio,could you say these notes aloud
+56,I'd like to get an audio transformation of this,convert_to_audio,id like to get an audio transformation of this
+57,Play this paragraph using voice,convert_to_audio,play this paragraph using voice
+58,Can you return this note as audio?,convert_to_audio,can you return this note as audio
+59,Voice representation needed for this script,convert_to_audio,voice representation needed for this script
+60,Generate an audio file from these points,convert_to_audio,generate an audio file from these points
+61,I’d like this content spoken,convert_to_audio,id like this content spoken
+62,Produce a sound version of this paragraph,convert_to_audio,produce a sound version of this paragraph
+63,Let me hear this content in MP3 form,convert_to_audio,let me hear this content in mp3 form
+64,Turn this sentence into voice-based output,convert_to_audio,turn this sentence into voicebased output
+65,Can you read these lines for me?,convert_to_audio,can you read these lines for me
+66,Please voice out the following message,convert_to_audio,please voice out the following message
+67,Speak this out as if it's a podcast,convert_to_audio,speak this out as if its a podcast
+68,"Narrate this paragraph, please",convert_to_audio,narrate this paragraph please
+69,Generate a voice-over for this note,convert_to_audio,generate a voiceover for this note
+70,Make an audio track from this sentence,convert_to_audio,make an audio track from this sentence
+71,I'd love to hear this read in English,convert_to_audio,id love to hear this read in english
+72,Please say these lines using audio,convert_to_audio,please say these lines using audio
+73,Provide an auditory version of this,convert_to_audio,provide an auditory version of this
+74,Can you return an MP3 of this note?,convert_to_audio,can you return an mp3 of this note
+75,Voice this script out loud,convert_to_audio,voice this script out loud
+76,Let me listen to these notes,convert_to_audio,let me listen to these notes
+77,Say this section in your voice,convert_to_audio,say this section in your voice
+78,I need this transformed into voice,convert_to_audio,i need this transformed into voice
+79,Say this sentence with voice,convert_to_audio,say this sentence with voice
+80,Create a speech version of these points,convert_to_audio,create a speech version of these points
+81,Speak the following out like an audiobook,convert_to_audio,speak the following out like an audiobook
+82,Give me an audible file of this message,convert_to_audio,give me an audible file of this message
+83,Produce speech for the content below,convert_to_audio,produce speech for the content below
+84,Please let me hear this script,convert_to_audio,please let me hear this script
+85,Say this back to me in audio,convert_to_audio,say this back to me in audio
+86,I’d like an MP3 version of this writing,convert_to_audio,id like an mp3 version of this writing
+87,Speak the paragraph in clear audio,convert_to_audio,speak the paragraph in clear audio
+88,Can you return a vocal version of this file?,convert_to_audio,can you return a vocal version of this file
+89,Say the following in spoken English,convert_to_audio,say the following in spoken english
+90,Play this in audio speech format,convert_to_audio,play this in audio speech format
+91,Produce a sound clip from this paragraph,convert_to_audio,produce a sound clip from this paragraph
+92,Please create a spoken version,convert_to_audio,please create a spoken version
+93,Make the following paragraph verbal,convert_to_audio,make the following paragraph verbal
+94,Can you give me an MP3 reading of this?,convert_to_audio,can you give me an mp3 reading of this
+95,Say these contents out loud like a narrator,convert_to_audio,say these contents out loud like a narrator
+96,Speak this message into an audio file,convert_to_audio,speak this message into an audio file
+97,Make this segment listenable,convert_to_audio,make this segment listenable
+98,Play this note as a voice output,convert_to_audio,play this note as a voice output
+99,Say my paragraph as sound,convert_to_audio,say my paragraph as sound
+100,Turn this piece into vocal form,convert_to_audio,turn this piece into vocal form
+101,Please pronounce this note aloud,convert_to_audio,please pronounce this note aloud
+102,Produce audio using the following words,convert_to_audio,produce audio using the following words
+103,Turn this into spoken narration,convert_to_audio,turn this into spoken narration
+104,I'd like this text to be read out loud,convert_to_audio,id like this text to be read out loud
+105,Convert this sentence into an audio message,convert_to_audio,convert this sentence into an audio message
+106,Can you play back this text as speech?,convert_to_audio,can you play back this text as speech
+107,I want this written content in audio format,convert_to_audio,i want this written content in audio format
+108,Please turn this message into spoken audio,convert_to_audio,please turn this message into spoken audio
+109,I need this content vocalized,convert_to_audio,i need this content vocalized
+110,Say this sentence in a natural voice,convert_to_audio,say this sentence in a natural voice
+111,Turn this content into something I can listen to,convert_to_audio,turn this content into something i can listen to
+112,Could you generate a voiceover of this message?,convert_to_audio,could you generate a voiceover of this message
+113,I’d like to listen to this instead of reading,convert_to_audio,id like to listen to this instead of reading
+114,Please speak the following aloud,convert_to_audio,please speak the following aloud
+115,Turn these points into a speech file,convert_to_audio,turn these points into a speech file
+116,Give me an audible form of this input,convert_to_audio,give me an audible form of this input
+117,Play this content back as audio,convert_to_audio,play this content back as audio
+118,I want this information as an MP3,convert_to_audio,i want this information as an mp3
+119,Can you convert these lines into sound?,convert_to_audio,can you convert these lines into sound
+120,Make this sentence speakable,convert_to_audio,make this sentence speakable
+121,Transform my paragraph into an audible recording,convert_to_audio,transform my paragraph into an audible recording
+122,I prefer hearing this — generate voice,convert_to_audio,i prefer hearing this generate voice
+123,Please produce a speech output of this note,convert_to_audio,please produce a speech output of this note
+124,Let me hear this message in audio form,convert_to_audio,let me hear this message in audio form
+125,Convert the following into voice-based audio,convert_to_audio,convert the following into voicebased audio
+126,I'd like this typed content spoken back to me,convert_to_audio,id like this typed content spoken back to me
+127,Speak this text for audio playback,convert_to_audio,speak this text for audio playback
+128,I want a narrator-style version of this content,convert_to_audio,i want a narratorstyle version of this content
+129,Please output this as a speech stream,convert_to_audio,please output this as a speech stream
+130,Say these words in human-like voice,convert_to_audio,say these words in humanlike voice
+131,I'd appreciate this as spoken language,convert_to_audio,id appreciate this as spoken language
+132,Say this input in voice form,convert_to_audio,say this input in voice form
+133,Voice this paragraph and send it as audio,convert_to_audio,voice this paragraph and send it as audio
+134,Turn this message into a voice format,convert_to_audio,turn this message into a voice format
+135,Produce speech from this input,convert_to_audio,produce speech from this input
+136,Can you narrate this line?,convert_to_audio,can you narrate this line
+137,Please play this out loud using AI voice,convert_to_audio,please play this out loud using ai voice
+138,Say the next message as an audio clip,convert_to_audio,say the next message as an audio clip
+139,Speak this using natural-sounding speech,convert_to_audio,speak this using naturalsounding speech
+140,Play audio of these statements,convert_to_audio,play audio of these statements
+141,Create a vocal file of this paragraph,convert_to_audio,create a vocal file of this paragraph
+142,Generate voice narration for this entry,convert_to_audio,generate voice narration for this entry
+143,Provide this content as a spoken file,convert_to_audio,provide this content as a spoken file
+144,Read this aloud like a narrator,convert_to_audio,read this aloud like a narrator
+145,I want to hear this paragraph,convert_to_audio,i want to hear this paragraph
+146,Give me a listenable version of the input,convert_to_audio,give me a listenable version of the input
+147,Play this content as a human voice,convert_to_audio,play this content as a human voice
+148,Make this paragraph sound like a podcast,convert_to_audio,make this paragraph sound like a podcast
+149,Turn this sentence into something I can hear,convert_to_audio,turn this sentence into something i can hear
+150,Could you voice this out for me?,convert_to_audio,could you voice this out for me
+151,I'd like to hear this sentence played back,convert_to_audio,id like to hear this sentence played back
+152,Transform this message into voice output,convert_to_audio,transform this message into voice output
+153,Please speak this out in English,convert_to_audio,please speak this out in english
+154,Return an audio narration of this input,convert_to_audio,return an audio narration of this input
+155,Please give a voice version of this input,convert_to_audio,please give a voice version of this input
+156,Can this line be read out in voice?,convert_to_audio,can this line be read out in voice
+157,Produce a sound output for this message,convert_to_audio,produce a sound output for this message
+158,Change this text into a spoken phrase,convert_to_audio,change this text into a spoken phrase
+159,Say this as though reading it to an audience,convert_to_audio,say this as though reading it to an audience
+160,Turn this into a recording I can listen to,convert_to_audio,turn this into a recording i can listen to
+161,I want this narrated like a podcast,convert_to_audio,i want this narrated like a podcast
+162,Speak these words like an audiobook,convert_to_audio,speak these words like an audiobook
+163,Play this content as voice narration,convert_to_audio,play this content as voice narration
+164,Please turn this block of text into sound,convert_to_audio,please turn this block of text into sound
+165,Use speech to say this,convert_to_audio,use speech to say this
+166,Let me hear this in an audio clip,convert_to_audio,let me hear this in an audio clip
+167,Say this like a voice assistant,convert_to_audio,say this like a voice assistant
+168,I want a speech version of this sentence,convert_to_audio,i want a speech version of this sentence
+169,Please generate audio playback for this,convert_to_audio,please generate audio playback for this
+170,Make this content vocal,convert_to_audio,make this content vocal
+171,Give a voice-based format of this note,convert_to_audio,give a voicebased format of this note
+172,Narrate this line using a voice engine,convert_to_audio,narrate this line using a voice engine
+173,Turn the content into something audible,convert_to_audio,turn the content into something audible
+174,Can you turn these sentences into a spoken clip?,convert_to_audio,can you turn these sentences into a spoken clip
+175,Convert to voice mode,convert_to_audio,convert to voice mode
+176,Let me listen to the input,convert_to_audio,let me listen to the input
+177,Create a sound version of this paragraph,convert_to_audio,create a sound version of this paragraph
+178,Change this into vocal output,convert_to_audio,change this into vocal output
+179,Speak this in plain English,convert_to_audio,speak this in plain english
+180,Generate audible feedback for this text,convert_to_audio,generate audible feedback for this text
+181,Give this back as a voice file,convert_to_audio,give this back as a voice file
+182,Say this script aloud,convert_to_audio,say this script aloud
+183,Can you read these notes out loud?,convert_to_audio,can you read these notes out loud
+184,Make this listenable content,convert_to_audio,make this listenable content
+185,I'd like an audio snippet of this,convert_to_audio,id like an audio snippet of this
+186,Please return this as a speech sample,convert_to_audio,please return this as a speech sample
+187,Play this text like a voice note,convert_to_audio,play this text like a voice note
+188,Give me a sound file for this statement,convert_to_audio,give me a sound file for this statement
+189,"Verbal version of this, please",convert_to_audio,verbal version of this please
+190,Convert this paragraph to a voice clip,convert_to_audio,convert this paragraph to a voice clip
+191,Speak this so I can hear it,convert_to_audio,speak this so i can hear it
+192,Make this paragraph talk,convert_to_audio,make this paragraph talk
+193,Produce audio for this written passage,convert_to_audio,produce audio for this written passage
+194,Give this sentence back as an MP3,convert_to_audio,give this sentence back as an mp3
+195,I want to hear these lines,convert_to_audio,i want to hear these lines
+196,Turn this phrase into audible speech,convert_to_audio,turn this phrase into audible speech
+197,Read this message out using synthetic voice,convert_to_audio,read this message out using synthetic voice
+198,Please generate a vocalized clip of this,convert_to_audio,please generate a vocalized clip of this
+199,Voice out this section of text,convert_to_audio,voice out this section of text
+200,Render this message into audio,convert_to_audio,render this message into audio
+201,Provide a sound clip of this sentence,convert_to_audio,provide a sound clip of this sentence
+202,Say this as if reading to a friend,convert_to_audio,say this as if reading to a friend
+203,Play this aloud as a narration,convert_to_audio,play this aloud as a narration
+204,Make an MP3 narration of this note,convert_to_audio,make an mp3 narration of this note
+205,Convert this text to audio,convert_to_audio,convert this text to audio
+206,Can you read this out loud?,convert_to_audio,can you read this out loud
+207,Make an audio file from this,convert_to_audio,make an audio file from this
+208,Speak this text,convert_to_audio,speak this text
+209,Turn these notes into an MP3,convert_to_audio,turn these notes into an mp3
+210,I want to hear this content,convert_to_audio,i want to hear this content
+211,Play this as audio,convert_to_audio,play this as audio
+212,Read this in audio format,convert_to_audio,read this in audio format
+213,Generate audio from this note,convert_to_audio,generate audio from this note
+214,Can you say this out loud?,convert_to_audio,can you say this out loud
+215,Turn this note into spoken words,convert_to_audio,turn this note into spoken words
+216,Please give me an audio version of this,convert_to_audio,please give me an audio version of this
+217,I want this in audio format,convert_to_audio,i want this in audio format
+218,Speak these words,convert_to_audio,speak these words
+219,Can you speak this content?,convert_to_audio,can you speak this content
+220,Say this text,convert_to_audio,say this text
+221,I want an audio clip of this,convert_to_audio,i want an audio clip of this
+222,Make this listenable,convert_to_audio,make this listenable
+223,Give me audio output for this,convert_to_audio,give me audio output for this
+224,Voice this content,convert_to_audio,voice this content
+225,Can I hear this text?,convert_to_audio,can i hear this text
+226,Please play this note as audio,convert_to_audio,please play this note as audio
+227,Turn this into a voice message,convert_to_audio,turn this into a voice message
+228,I’d like to hear this,convert_to_audio,id like to hear this
+229,Convert the following to voice,convert_to_audio,convert the following to voice
+230,Give this back as sound,convert_to_audio,give this back as sound
+231,I want to listen to this,convert_to_audio,i want to listen to this
+232,Can this be converted to speech?,convert_to_audio,can this be converted to speech
+233,Read this content using voice,convert_to_audio,read this content using voice
+234,Say it aloud,convert_to_audio,say it aloud
+235,Please give audio for this,convert_to_audio,please give audio for this
+236,Make this audible,convert_to_audio,make this audible
+237,Can you give me a sound version of this?,convert_to_audio,can you give me a sound version of this
+238,Let me hear this document,convert_to_audio,let me hear this document
+239,Voice over this content,convert_to_audio,voice over this content
+240,Generate speech from this,convert_to_audio,generate speech from this
+241,Can you vocalize this?,convert_to_audio,can you vocalize this
+242,Play this paragraph as audio,convert_to_audio,play this paragraph as audio
+243,Say this out,convert_to_audio,say this out
+244,Audio version needed,convert_to_audio,audio version needed
+245,Can you pronounce this content?,convert_to_audio,can you pronounce this content
+246,Make this text audible,convert_to_audio,make this text audible
+247,Read this aloud like a podcast,convert_to_audio,read this aloud like a podcast
+248,Convert it into spoken audio,convert_to_audio,convert it into spoken audio
+249,Give a voice recording of this,convert_to_audio,give a voice recording of this
+250,Provide an MP3 for this note,convert_to_audio,provide an mp3 for this note
+251,Transform this text into audio,convert_to_audio,transform this text into audio
+252,Speak out the content,convert_to_audio,speak out the content
+253,Please read my notes,convert_to_audio,please read my notes
+254,Read it like an audiobook,convert_to_audio,read it like an audiobook
+255,Turn this into spoken English,convert_to_audio,turn this into spoken english
+256,Make a voice file from this,convert_to_audio,make a voice file from this
+257,I need this in audio,convert_to_audio,i need this in audio
+258,Play these notes as sound,convert_to_audio,play these notes as sound
+259,Read this paragraph aloud,convert_to_audio,read this paragraph aloud
+260,Produce a voice message of this,convert_to_audio,produce a voice message of this
+261,I’d like an audio file for this,convert_to_audio,id like an audio file for this
+262,Can you narrate this?,convert_to_audio,can you narrate this
+263,Speak the following sentence,convert_to_audio,speak the following sentence
+264,Say the content in this file,convert_to_audio,say the content in this file
+265,Please make this content audible,convert_to_audio,please make this content audible
+266,Render this into a voice,convert_to_audio,render this into a voice
+267,Voice over this file,convert_to_audio,voice over this file
+268,Narrate these notes,convert_to_audio,narrate these notes
+269,Audio narration needed,convert_to_audio,audio narration needed
+270,Make this readable by voice,convert_to_audio,make this readable by voice
+271,Create audio narration,convert_to_audio,create audio narration
+272,I'd like a voice output,convert_to_audio,id like a voice output
+273,Please speak the following,convert_to_audio,please speak the following
+274,I need an audible version of this,convert_to_audio,i need an audible version of this
+275,Voice convert this,convert_to_audio,voice convert this
+276,Please generate audio,convert_to_audio,please generate audio
+277,Play back the notes,convert_to_audio,play back the notes
+278,Make a podcast-style clip,convert_to_audio,make a podcaststyle clip
+279,Turn my notes into speech,convert_to_audio,turn my notes into speech
+280,Can I get this as a spoken clip?,convert_to_audio,can i get this as a spoken clip
+281,I want this in voice form,convert_to_audio,i want this in voice form
+282,Convert it into verbal audio,convert_to_audio,convert it into verbal audio
+283,Spoken form needed,convert_to_audio,spoken form needed
+284,Make the sentence soundable,convert_to_audio,make the sentence soundable
+285,Speak this like a narrator,convert_to_audio,speak this like a narrator
+286,Play this as a voice recording,convert_to_audio,play this as a voice recording
+287,Turn these notes into a speech,convert_to_audio,turn these notes into a speech
+288,Read this out as if I’m listening,convert_to_audio,read this out as if im listening
+289,Verbalize this,convert_to_audio,verbalize this
+290,Generate audio feedback,convert_to_audio,generate audio feedback
+291,Let me hear the notes,convert_to_audio,let me hear the notes
+292,Record a voice reading this,convert_to_audio,record a voice reading this
+293,Spoken version needed,convert_to_audio,spoken version needed
+295,Turn this into an MP3 narration,convert_to_audio,turn this into an mp3 narration
+296,Please play the text in audio,convert_to_audio,please play the text in audio
+297,Speak out these sentences,convert_to_audio,speak out these sentences
+298,Say my notes aloud,convert_to_audio,say my notes aloud
+299,Convert these words to sound,convert_to_audio,convert these words to sound
+300,Generate a vocal output,convert_to_audio,generate a vocal output
+301,Make a reading of this,convert_to_audio,make a reading of this
+302,Let me hear this note,convert_to_audio,let me hear this note
+303,Sound this paragraph,convert_to_audio,sound this paragraph
+304,I'd like this spoken back to me,convert_to_audio,id like this spoken back to me
+305,Please narrate this passage,convert_to_audio,please narrate this passage
+306,Convert these lines into a voice clip,convert_to_audio,convert these lines into a voice clip
+307,Can you vocalize this script?,convert_to_audio,can you vocalize this script
+308,Make an audio track out of this,convert_to_audio,make an audio track out of this
+309,Say this content like a news reader,convert_to_audio,say this content like a news reader
+310,Give a spoken delivery of this,convert_to_audio,give a spoken delivery of this
+311,Voice-over these words,convert_to_audio,voiceover these words
+312,I’d love to hear this instead of reading,convert_to_audio,id love to hear this instead of reading
+313,Turn the text into speech,convert_to_audio,turn the text into speech
+314,Can I get a sound clip of this?,convert_to_audio,can i get a sound clip of this
+315,Say this as an announcement,convert_to_audio,say this as an announcement
+316,Let me hear a voice read this out,convert_to_audio,let me hear a voice read this out
+317,Read these out using text-to-speech,convert_to_audio,read these out using texttospeech
+318,I'd like a voice note of this,convert_to_audio,id like a voice note of this
+319,Turn this message into a podcast segment,convert_to_audio,turn this message into a podcast segment
+320,Give this in MP3 voice format,convert_to_audio,give this in mp3 voice format
+321,Speak the sentence to me,convert_to_audio,speak the sentence to me
+322,Make this a readable file using voice,convert_to_audio,make this a readable file using voice
+323,I'd like to hear the spoken version,convert_to_audio,id like to hear the spoken version
+324,Can this paragraph be made audible?,convert_to_audio,can this paragraph be made audible
+325,Convert the text to a soundwave,convert_to_audio,convert the text to a soundwave
+326,Sound this text as voice,convert_to_audio,sound this text as voice
+327,Turn my sentence into a sound file,convert_to_audio,turn my sentence into a sound file
+328,I'd appreciate an audible format,convert_to_audio,id appreciate an audible format
+329,Generate a podcast-like voiceover,convert_to_audio,generate a podcastlike voiceover
+330,Render this note vocally,convert_to_audio,render this note vocally
+331,I want an MP3 voice clip of this,convert_to_audio,i want an mp3 voice clip of this
+332,Create a voiceover output for this,convert_to_audio,create a voiceover output for this
+333,Generate voice message format,convert_to_audio,generate voice message format
+334,Let me listen instead of reading,convert_to_audio,let me listen instead of reading
+335,Say this line with a clear voice,convert_to_audio,say this line with a clear voice
+336,Play this aloud using a voice bot,convert_to_audio,play this aloud using a voice bot
+337,Please give a sound interpretation,convert_to_audio,please give a sound interpretation
+338,I need voice narration of this part,convert_to_audio,i need voice narration of this part
+339,Please vocalize the sentence,convert_to_audio,please vocalize the sentence
+340,Transform this paragraph into sound,convert_to_audio,transform this paragraph into sound
+341,Can you turn this into verbal format?,convert_to_audio,can you turn this into verbal format
+342,Let me hear this as if from a narrator,convert_to_audio,let me hear this as if from a narrator
+343,Play this text as audio content,convert_to_audio,play this text as audio content
+344,I'd like this read to me,convert_to_audio,id like this read to me
+345,Turn this into something I can hear,convert_to_audio,turn this into something i can hear
+346,Give me the audible outcome of this,convert_to_audio,give me the audible outcome of this
+347,Speak this paragraph using voice AI,convert_to_audio,speak this paragraph using voice ai
+348,Can you pronounce this out loud?,convert_to_audio,can you pronounce this out loud
+349,Turn this note into a narration,convert_to_audio,turn this note into a narration
+350,Say this for me in voice,convert_to_audio,say this for me in voice
+351,Let me hear this in a speech form,convert_to_audio,let me hear this in a speech form
+352,I need a voice file of this text,convert_to_audio,i need a voice file of this text
+353,Please provide a speech-based clip,convert_to_audio,please provide a speechbased clip
+354,Read this like a storyteller,convert_to_audio,read this like a storyteller
+355,Speak it in a smooth voice,convert_to_audio,speak it in a smooth voice
+356,I’d like this played in voice format,convert_to_audio,id like this played in voice format
+357,Convert to synthetic voice,convert_to_audio,convert to synthetic voice
+358,I want to hear this read aloud,convert_to_audio,i want to hear this read aloud
+359,Voice generate this input,convert_to_audio,voice generate this input
+360,Make this section spoken,convert_to_audio,make this section spoken
+361,Give me a reading in voice,convert_to_audio,give me a reading in voice
+362,Generate a sound version of this message,convert_to_audio,generate a sound version of this message
+363,Create a listening version of this,convert_to_audio,create a listening version of this
+364,Say these lines using voice AI,convert_to_audio,say these lines using voice ai
+365,Play back this note with sound,convert_to_audio,play back this note with sound
+366,Let this be heard,convert_to_audio,let this be heard
+367,Please use audio to deliver this,convert_to_audio,please use audio to deliver this
+368,Turn it into an MP3 voice track,convert_to_audio,turn it into an mp3 voice track
+369,I’d like this rendered in voice,convert_to_audio,id like this rendered in voice
+370,Speak this section of the document,convert_to_audio,speak this section of the document
+371,Audio render this message,convert_to_audio,audio render this message
+372,Transform into a voice playable,convert_to_audio,transform into a voice playable
+373,Make this into something I can listen to,convert_to_audio,make this into something i can listen to
+374,Say these words to me,convert_to_audio,say these words to me
+375,Use your voice to read this,convert_to_audio,use your voice to read this
+376,Provide me with a sound file of this,convert_to_audio,provide me with a sound file of this
+377,Play this using voice synthesis,convert_to_audio,play this using voice synthesis
+378,Please make an audio recording of this,convert_to_audio,please make an audio recording of this
+379,Speak this clearly,convert_to_audio,speak this clearly
+380,Read this part like a narrator,convert_to_audio,read this part like a narrator
+381,Convert the script into audible format,convert_to_audio,convert the script into audible format
+382,I'd like this played like an audiobook,convert_to_audio,id like this played like an audiobook
+383,Turn this chunk of text into an audio stream,convert_to_audio,turn this chunk of text into an audio stream
+384,Make this vocal content,convert_to_audio,make this vocal content
+385,Audio playback of this required,convert_to_audio,audio playback of this required
+386,Speak this paragraph with voice modulation,convert_to_audio,speak this paragraph with voice modulation
+387,Turn this into a spoken paragraph,convert_to_audio,turn this into a spoken paragraph
+388,I need this in a voice assistant format,convert_to_audio,i need this in a voice assistant format
+389,Please convert to audible MP3,convert_to_audio,please convert to audible mp3
+390,Let me hear this like it's on a podcast,convert_to_audio,let me hear this like its on a podcast
+391,Sound out these details,convert_to_audio,sound out these details
+392,Provide an audio message for this,convert_to_audio,provide an audio message for this
+393,Narrate this like a story,convert_to_audio,narrate this like a story
+394,Generate a narration file for this,convert_to_audio,generate a narration file for this
+395,Make the voice version of this,convert_to_audio,make the voice version of this
+396,Can I hear an audible version of these words?,convert_to_audio,can i hear an audible version of these words
+397,Use AI voice to read this,convert_to_audio,use ai voice to read this
+398,Give me this sentence as a voice output,convert_to_audio,give me this sentence as a voice output
+399,Speak this whole content,convert_to_audio,speak this whole content
+400,Make this content play as a voice,convert_to_audio,make this content play as a voice
+401,Read this as an audio file,convert_to_audio,read this as an audio file
+402,Let me hear the script,convert_to_audio,let me hear the script
+403,Could you turn this text into audio?,convert_to_audio,could you turn this text into audio
+404,Make this sentence audible,convert_to_audio,make this sentence audible
+405,I need this part read out loud,convert_to_audio,i need this part read out loud
+406,Convert this into a spoken format,convert_to_audio,convert this into a spoken format
+407,Can this content be played aloud?,convert_to_audio,can this content be played aloud
+409,Use TTS to speak this,convert_to_audio,use tts to speak this
+410,I'd rather listen to this,convert_to_audio,id rather listen to this
+411,Play this as spoken words,convert_to_audio,play this as spoken words
+413,I want this spoken via AI,convert_to_audio,i want this spoken via ai
+414,Say this using speech synthesis,convert_to_audio,say this using speech synthesis
+415,Play this sentence as audio,convert_to_audio,play this sentence as audio
+416,Read this like a narrator would,convert_to_audio,read this like a narrator would
+417,I want to hear this part,convert_to_audio,i want to hear this part
+418,Can you read this section out?,convert_to_audio,can you read this section out
+419,Speak this as a voiceover artist,convert_to_audio,speak this as a voiceover artist
+420,Please turn this script into voice,convert_to_audio,please turn this script into voice
+421,Render this in speech,convert_to_audio,render this in speech
+422,Let me hear a reading of this,convert_to_audio,let me hear a reading of this
+423,Use voice to express this,convert_to_audio,use voice to express this
+424,Give me the spoken output,convert_to_audio,give me the spoken output
+425,Speak this passage clearly,convert_to_audio,speak this passage clearly
+426,I want a voice playback of this,convert_to_audio,i want a voice playback of this
+427,Play this as a voice message,convert_to_audio,play this as a voice message
+428,Give me a reading voice of this text,convert_to_audio,give me a reading voice of this text
+429,Turn the written part into audio,convert_to_audio,turn the written part into audio
+430,Let me hear this instead,convert_to_audio,let me hear this instead
+431,Produce an audio result for this,convert_to_audio,produce an audio result for this
+432,I’d like this presented in a vocal form,convert_to_audio,id like this presented in a vocal form
+433,Use your speech engine to say this,convert_to_audio,use your speech engine to say this
+434,Make a verbal version of this,convert_to_audio,make a verbal version of this
+435,Convert this text to something I can hear,convert_to_audio,convert this text to something i can hear
+436,Please make a sound version of this sentence,convert_to_audio,please make a sound version of this sentence
+437,Speak this with emotion,convert_to_audio,speak this with emotion
+438,Can you say these words out loud?,convert_to_audio,can you say these words out loud
+439,Turn this into a speech form output,convert_to_audio,turn this into a speech form output
+440,Generate a vocal rendition of this,convert_to_audio,generate a vocal rendition of this
+441,Speak these lines out,convert_to_audio,speak these lines out
+442,Please say this out loud for me,convert_to_audio,please say this out loud for me
+443,Let me hear the spoken format,convert_to_audio,let me hear the spoken format
+444,Transform the content to an audio clip,convert_to_audio,transform the content to an audio clip
+445,I want a synthetic voice to say this,convert_to_audio,i want a synthetic voice to say this
+446,Produce this as audible speech,convert_to_audio,produce this as audible speech
+447,I'd like a voice readout of this,convert_to_audio,id like a voice readout of this
+448,Can you turn these words into a podcast voice?,convert_to_audio,can you turn these words into a podcast voice
+449,Please read this line for me,convert_to_audio,please read this line for me
+450,Read this into an audio file,convert_to_audio,read this into an audio file
+451,I want this section narrated,convert_to_audio,i want this section narrated
+452,Say these things for me out loud,convert_to_audio,say these things for me out loud
+453,Deliver this as speech,convert_to_audio,deliver this as speech
+454,Turn this into a spoken file,convert_to_audio,turn this into a spoken file
+455,I'd like this text in a voiced format,convert_to_audio,id like this text in a voiced format
+456,Please convert my paragraph into speech,convert_to_audio,please convert my paragraph into speech
+457,Create a vocal version of this text,convert_to_audio,create a vocal version of this text
+458,"Audio form of this note, please",convert_to_audio,audio form of this note please
+459,Let me listen to this content,convert_to_audio,let me listen to this content
+460,Read these lines using voice,convert_to_audio,read these lines using voice
+461,Convert the passage to audio format,convert_to_audio,convert the passage to audio format
+462,Transform the message into sound,convert_to_audio,transform the message into sound
+463,Please synthesize this into audio,convert_to_audio,please synthesize this into audio
+464,Use voice to read this,convert_to_audio,use voice to read this
+465,Say the content as if in a podcast,convert_to_audio,say the content as if in a podcast
+466,I want an MP3 version of these words,convert_to_audio,i want an mp3 version of these words
+467,Make this text play like a message,convert_to_audio,make this text play like a message
+468,Convert this file into audio output,convert_to_audio,convert this file into audio output
+469,Can you create speech from this file?,convert_to_audio,can you create speech from this file
+470,Let me hear your voice reading this,convert_to_audio,let me hear your voice reading this
+471,Change this into an audible format,convert_to_audio,change this into an audible format
+472,Say this out like a newsreader,convert_to_audio,say this out like a newsreader
+473,Please use voice synthesis for this,convert_to_audio,please use voice synthesis for this
+474,Transform these lines to speech,convert_to_audio,transform these lines to speech
+475,I want to hear the following sentence,convert_to_audio,i want to hear the following sentence
+476,Play this content using voice,convert_to_audio,play this content using voice
+477,Make this into a speech segment,convert_to_audio,make this into a speech segment
+478,Generate voice playback for this text,convert_to_audio,generate voice playback for this text
+479,I need to hear this as sound,convert_to_audio,i need to hear this as sound
+480,Say these notes with voice,convert_to_audio,say these notes with voice
+481,Read this content like a narrator,convert_to_audio,read this content like a narrator
+482,Make it sound like a lecture,convert_to_audio,make it sound like a lecture
+483,I'd prefer a voiceover of this,convert_to_audio,id prefer a voiceover of this
+484,Give this text a voice,convert_to_audio,give this text a voice
+485,I’d appreciate this in audio,convert_to_audio,id appreciate this in audio
+486,Can you play this text aloud?,convert_to_audio,can you play this text aloud
+487,Make this document soundable,convert_to_audio,make this document soundable
+488,Turn the text into a podcast clip,convert_to_audio,turn the text into a podcast clip
+489,Convert this sentence to a sound file,convert_to_audio,convert this sentence to a sound file
+490,Record a podcast-like version of this,convert_to_audio,record a podcastlike version of this
+491,Please say these lines for me,convert_to_audio,please say these lines for me
+492,Provide voice playback of this,convert_to_audio,provide voice playback of this
+493,"Audible form of the following, please",convert_to_audio,audible form of the following please
+494,I would like to hear this in sound,convert_to_audio,i would like to hear this in sound
+495,Use a voice to deliver this message,convert_to_audio,use a voice to deliver this message
+497,Play this sentence back using sound,convert_to_audio,play this sentence back using sound
+498,Can this content be spoken?,convert_to_audio,can this content be spoken
+499,Turn the notes into audio narration,convert_to_audio,turn the notes into audio narration
+500,Play back this using speech,convert_to_audio,play back this using speech
+501,Please make this file listenable,convert_to_audio,please make this file listenable
+502,Give an MP3 output of this content,convert_to_audio,give an mp3 output of this content
+503,Read this in a voiceover style,convert_to_audio,read this in a voiceover style
+504,Turn these sentences into speech,convert_to_audio,turn these sentences into speech
+505,Please convert this passage to voice,convert_to_audio,please convert this passage to voice
+506,Convert this writing into verbal format,convert_to_audio,convert this writing into verbal format
+507,Narrate this section,convert_to_audio,narrate this section
+508,Voice these written lines,convert_to_audio,voice these written lines
+509,Can you say this in a natural voice?,convert_to_audio,can you say this in a natural voice
+510,Audio playback required for this,convert_to_audio,audio playback required for this
+511,Make this text available in audio,convert_to_audio,make this text available in audio
+512,Say the words from this paragraph,convert_to_audio,say the words from this paragraph
+513,I want a sound version of this text,convert_to_audio,i want a sound version of this text
+514,Give me a podcast output of this,convert_to_audio,give me a podcast output of this
+515,Speak these notes using AI voice,convert_to_audio,speak these notes using ai voice
+516,Generate synthetic voice for this,convert_to_audio,generate synthetic voice for this
+517,Please convert this document to spoken English,convert_to_audio,please convert this document to spoken english
+518,Voice narration of this sentence needed,convert_to_audio,voice narration of this sentence needed
+519,Read this aloud like a presentation,convert_to_audio,read this aloud like a presentation
+520,Create a readable voice clip,convert_to_audio,create a readable voice clip
+521,I need this document read out,convert_to_audio,i need this document read out
+522,Play this voice clip,convert_to_audio,play this voice clip
+523,Generate narration for this page,convert_to_audio,generate narration for this page
+524,Make this script audible,convert_to_audio,make this script audible
+525,Please read this message in voice,convert_to_audio,please read this message in voice
+526,Make an MP3 narration,convert_to_audio,make an mp3 narration
+527,Generate a speech recording,convert_to_audio,generate a speech recording
+528,Read this using text-to-speech,convert_to_audio,read this using texttospeech
+529,I want an audio representation of this,convert_to_audio,i want an audio representation of this
+530,Voice playback requested,convert_to_audio,voice playback requested
+531,Make a verbal file of this note,convert_to_audio,make a verbal file of this note
+532,Spoken output needed,convert_to_audio,spoken output needed
+533,Convert my message to sound,convert_to_audio,convert my message to sound
+534,Create a reading voice version,convert_to_audio,create a reading voice version
+535,Say it like a narrator would,convert_to_audio,say it like a narrator would
+536,Produce a reading of this text,convert_to_audio,produce a reading of this text
+537,Speak my paragraph out loud,convert_to_audio,speak my paragraph out loud
+538,Let me hear the following message,convert_to_audio,let me hear the following message
+539,Sound clip required for this,convert_to_audio,sound clip required for this
+540,Use TTS for this content,convert_to_audio,use tts for this content
+541,Play this statement in voice,convert_to_audio,play this statement in voice
+542,Generate a reading voice output,convert_to_audio,generate a reading voice output
+543,I'd like this in podcast voice,convert_to_audio,id like this in podcast voice
+544,Please provide this in MP3 sound,convert_to_audio,please provide this in mp3 sound
+545,Say it with a friendly voice,convert_to_audio,say it with a friendly voice
+546,Can this be said aloud?,convert_to_audio,can this be said aloud
+547,Convert these notes to audible speech,convert_to_audio,convert these notes to audible speech
+548,Speak these ideas aloud,convert_to_audio,speak these ideas aloud
+549,Read this like a speaker,convert_to_audio,read this like a speaker
+550,Turn this written input into sound,convert_to_audio,turn this written input into sound
+551,Give me a recorded voice version,convert_to_audio,give me a recorded voice version
+552,Narrate this document,convert_to_audio,narrate this document
+553,"Audio narration of the message, please",convert_to_audio,audio narration of the message please
+554,I'd like this text to be vocalized,convert_to_audio,id like this text to be vocalized
+555,Speak this using synthesized speech,convert_to_audio,speak this using synthesized speech
+556,Please read this aloud for me,convert_to_audio,please read this aloud for me
+557,Make a voice version of this text,convert_to_audio,make a voice version of this text
+558,Turn this text content into speech,convert_to_audio,turn this text content into speech
+561,Speak this message out loud,convert_to_audio,speak this message out loud
+562,Give me a spoken file of this,convert_to_audio,give me a spoken file of this
+563,Create an audio clip from this text,convert_to_audio,create an audio clip from this text
+564,I want to listen to this text,convert_to_audio,i want to listen to this text
+565,Make a reading of this sentence,convert_to_audio,make a reading of this sentence
+566,Produce an audio track from this,convert_to_audio,produce an audio track from this
+567,Let me hear this in voice format,convert_to_audio,let me hear this in voice format
+568,Say this text with emotion,convert_to_audio,say this text with emotion
+569,Please synthesize speech from this,convert_to_audio,please synthesize speech from this
+570,I want an audible reading of this,convert_to_audio,i want an audible reading of this
+571,Read this text as a voice message,convert_to_audio,read this text as a voice message
+572,Turn this script into a spoken message,convert_to_audio,turn this script into a spoken message
+573,Convert my text input to audio,convert_to_audio,convert my text input to audio
+574,Play this text using speech output,convert_to_audio,play this text using speech output
+575,Please make this text soundable,convert_to_audio,please make this text soundable
+576,Give me a vocal version of this,convert_to_audio,give me a vocal version of this
+577,Use TTS to say this text,convert_to_audio,use tts to say this text
+578,Can you make an audio file of this?,convert_to_audio,can you make an audio file of this
+579,Speak these words aloud for me,convert_to_audio,speak these words aloud for me
+580,Create a speech version of this message,convert_to_audio,create a speech version of this message
+582,Please read this note using voice,convert_to_audio,please read this note using voice
+583,Generate an audio narration,convert_to_audio,generate an audio narration
+584,Turn this note into a voice clip,convert_to_audio,turn this note into a voice clip
+585,Read this text with your voice,convert_to_audio,read this text with your voice
+586,Play this message aloud,convert_to_audio,play this message aloud
+587,Convert this document to spoken word,convert_to_audio,convert this document to spoken word
+588,I need a voice reading of this,convert_to_audio,i need a voice reading of this
+589,Say this paragraph out loud,convert_to_audio,say this paragraph out loud
+590,Make a spoken audio from this text,convert_to_audio,make a spoken audio from this text
+591,Create a voiceover for this text,convert_to_audio,create a voiceover for this text
+592,Turn these sentences into audio,convert_to_audio,turn these sentences into audio
+593,Play this writing as speech,convert_to_audio,play this writing as speech
+594,Convert these lines to spoken word,convert_to_audio,convert these lines to spoken word
+595,Give me an audio playback of this,convert_to_audio,give me an audio playback of this
+596,Speak this passage aloud,convert_to_audio,speak this passage aloud
+597,Please make a voice file of this,convert_to_audio,please make a voice file of this
+598,Say this text in a natural voice,convert_to_audio,say this text in a natural voice
+599,Turn this text into a voice recording,convert_to_audio,turn this text into a voice recording
+600,Produce a spoken version of this,convert_to_audio,produce a spoken version of this
+602,Make this text listenable,convert_to_audio,make this text listenable
+603,Can you vocalize this message?,convert_to_audio,can you vocalize this message
+604,Read these words with emotion,convert_to_audio,read these words with emotion
+605,Please create a voice message for this,convert_to_audio,please create a voice message for this
+606,I want an MP3 reading of this,convert_to_audio,i want an mp3 reading of this
+607,Generate speech from this content,convert_to_audio,generate speech from this content
+608,Turn the written text into sound,convert_to_audio,turn the written text into sound
+609,Speak this as a voice note,convert_to_audio,speak this as a voice note
+610,Make a voice output for this text,convert_to_audio,make a voice output for this text
+611,Read this aloud with your voice,convert_to_audio,read this aloud with your voice
+612,Create an audio narration from this,convert_to_audio,create an audio narration from this
+613,Say these words as a message,convert_to_audio,say these words as a message
+614,Produce a vocal recording of this,convert_to_audio,produce a vocal recording of this
+615,Please convert this text to sound,convert_to_audio,please convert this text to sound
+616,Play this as spoken text,convert_to_audio,play this as spoken text
+617,Make an audio version of this,convert_to_audio,make an audio version of this
+618,Voice this paragraph,convert_to_audio,voice this paragraph
+619,Turn this text into a voice clip,convert_to_audio,turn this text into a voice clip
+620,Give me spoken audio for this,convert_to_audio,give me spoken audio for this
+621,Use speech synthesis for this text,convert_to_audio,use speech synthesis for this text
+622,Make a vocal playback of this,convert_to_audio,make a vocal playback of this
+623,Read this as a voice message,convert_to_audio,read this as a voice message
+624,Convert these notes to audio,convert_to_audio,convert these notes to audio
+625,Can you say this text aloud?,convert_to_audio,can you say this text aloud
+626,Turn these words into speech,convert_to_audio,turn these words into speech
+627,Make a voice recording of this text,convert_to_audio,make a voice recording of this text
+628,Read this sentence with voice,convert_to_audio,read this sentence with voice
+629,Create an audio file from this,convert_to_audio,create an audio file from this
+630,Please speak this content,convert_to_audio,please speak this content
+631,Make an audible version of this,convert_to_audio,make an audible version of this
+632,I want this spoken aloud,convert_to_audio,i want this spoken aloud
+633,Turn this text into a speech file,convert_to_audio,turn this text into a speech file
+634,Say this message using voice,convert_to_audio,say this message using voice
+635,Convert this paragraph to speech,convert_to_audio,convert this paragraph to speech
+636,Make this message vocal,convert_to_audio,make this message vocal
+637,Create a spoken word file,convert_to_audio,create a spoken word file
+638,Please voice this text,convert_to_audio,please voice this text
+639,Produce a speech version of this,convert_to_audio,produce a speech version of this
+640,Speak these sentences,convert_to_audio,speak these sentences
+642,Make an audio playback for this,convert_to_audio,make an audio playback for this
+643,Turn this note into speech,convert_to_audio,turn this note into speech
+644,Give me a voice version of this,convert_to_audio,give me a voice version of this
+645,Please give me a voice reading,convert_to_audio,please give me a voice reading
+646,Convert this message to spoken audio,convert_to_audio,convert this message to spoken audio
+647,Read these notes aloud,convert_to_audio,read these notes aloud
+648,Create an audio narration for this text,convert_to_audio,create an audio narration for this text
+649,Make a speech version of this paragraph,convert_to_audio,make a speech version of this paragraph
+651,Say these words in audio format,convert_to_audio,say these words in audio format
+652,Turn this written content into speech,convert_to_audio,turn this written content into speech
+653,Generate a voice file from this note,convert_to_audio,generate a voice file from this note
+654,I want an audio version of this message,convert_to_audio,i want an audio version of this message
+655,Please vocalize this text,convert_to_audio,please vocalize this text
+656,Speak this out loud for me,convert_to_audio,speak this out loud for me
+657,Make an audio clip from this text,convert_to_audio,make an audio clip from this text
+658,Convert the following text to speech,convert_to_audio,convert the following text to speech
+659,Give me a spoken word recording,convert_to_audio,give me a spoken word recording
+660,Play this text as audio,convert_to_audio,play this text as audio
+661,Please read this note using speech,convert_to_audio,please read this note using speech
+662,Turn these sentences into spoken words,convert_to_audio,turn these sentences into spoken words
+663,Create a voice output of this content,convert_to_audio,create a voice output of this content
+664,Say this paragraph aloud,convert_to_audio,say this paragraph aloud
+666,Produce an audio reading for this,convert_to_audio,produce an audio reading for this
+667,Use speech to read this,convert_to_audio,use speech to read this
+668,I want to hear this text spoken,convert_to_audio,i want to hear this text spoken
+669,Please speak this message,convert_to_audio,please speak this message
+670,Make a podcast-style recording of this,convert_to_audio,make a podcaststyle recording of this
+671,Generate speech audio from this,convert_to_audio,generate speech audio from this
+672,Turn this note into an audio clip,convert_to_audio,turn this note into an audio clip
+673,Read this text like an audiobook,convert_to_audio,read this text like an audiobook
+674,Play this note as voice output,convert_to_audio,play this note as voice output
+675,Convert this sentence to spoken audio,convert_to_audio,convert this sentence to spoken audio
+676,Give me a voice narration for this,convert_to_audio,give me a voice narration for this
+677,Speak out these notes,convert_to_audio,speak out these notes
+678,Make an audible file from this text,convert_to_audio,make an audible file from this text
+679,Read this paragraph using your voice,convert_to_audio,read this paragraph using your voice
+680,Please generate a voice file,convert_to_audio,please generate a voice file
+681,Turn this writing into a spoken file,convert_to_audio,turn this writing into a spoken file
+682,Make a sound version of this sentence,convert_to_audio,make a sound version of this sentence
+683,Say this text with natural voice,convert_to_audio,say this text with natural voice
+684,Produce a vocal version of this,convert_to_audio,produce a vocal version of this
+685,Please read this aloud,convert_to_audio,please read this aloud
+686,Convert this note into speech,convert_to_audio,convert this note into speech
+687,Make a voice clip from this content,convert_to_audio,make a voice clip from this content
+688,Speak this message clearly,convert_to_audio,speak this message clearly
+689,Create a speech file from this text,convert_to_audio,create a speech file from this text
+690,Turn these words into a voice recording,convert_to_audio,turn these words into a voice recording
+691,Give me an audio playback of this text,convert_to_audio,give me an audio playback of this text
+692,Please say these sentences out loud,convert_to_audio,please say these sentences out loud
+693,Make a voice output file from this,convert_to_audio,make a voice output file from this
+694,Read this document using your voice,convert_to_audio,read this document using your voice
+695,Produce an audio narration of this note,convert_to_audio,produce an audio narration of this note
+696,Turn this text into audible speech,convert_to_audio,turn this text into audible speech
+697,Say this note aloud,convert_to_audio,say this note aloud
+698,Create a vocal recording of this message,convert_to_audio,create a vocal recording of this message
+699,Make an audio file for this text,convert_to_audio,make an audio file for this text
+700,Speak these words clearly,convert_to_audio,speak these words clearly
+701,Turn this text to a sound file,convert_to_audio,turn this text to a sound file
+702,Please read this passage out loud,convert_to_audio,please read this passage out loud
+703,Make a spoken audio clip from this,convert_to_audio,make a spoken audio clip from this
+704,Produce a voice message from this text,convert_to_audio,produce a voice message from this text
+705,Give me a vocal version of this note,convert_to_audio,give me a vocal version of this note
+706,Speak this paragraph as a voice message,convert_to_audio,speak this paragraph as a voice message
+707,Turn this content into audio,convert_to_audio,turn this content into audio
+708,Make this text audible for me,convert_to_audio,make this text audible for me
+709,Convert these words into voice,convert_to_audio,convert these words into voice
+710,Please generate a voice message,convert_to_audio,please generate a voice message
+711,Read this aloud with emotion,convert_to_audio,read this aloud with emotion
+712,Create an audio recording of this text,convert_to_audio,create an audio recording of this text
+713,Say these notes using speech,convert_to_audio,say these notes using speech
+714,Make a voice recording for this,convert_to_audio,make a voice recording for this
+715,Turn this paragraph into an audio file,convert_to_audio,turn this paragraph into an audio file
+716,Give me speech output of this text,convert_to_audio,give me speech output of this text
+718,Make a spoken word audio file,convert_to_audio,make a spoken word audio file
+719,Produce audio for this paragraph,convert_to_audio,produce audio for this paragraph
+720,Turn these notes into a voice clip,convert_to_audio,turn these notes into a voice clip
+721,Say this message clearly,convert_to_audio,say this message clearly
+722,Create a speech audio from this,convert_to_audio,create a speech audio from this
+723,Make this content into spoken words,convert_to_audio,make this content into spoken words
+724,Speak this text as an audio message,convert_to_audio,speak this text as an audio message
+725,Turn this text into vocal output,convert_to_audio,turn this text into vocal output
+726,Make an audio playback of this message,convert_to_audio,make an audio playback of this message
+727,Please vocalize these sentences,convert_to_audio,please vocalize these sentences
+728,Read this note using your voice,convert_to_audio,read this note using your voice
+729,Generate speech from these words,convert_to_audio,generate speech from these words
+730,Give me an audible file of this text,convert_to_audio,give me an audible file of this text
+731,Turn this text into spoken language,convert_to_audio,turn this text into spoken language
+732,Make a voice file from this paragraph,convert_to_audio,make a voice file from this paragraph
+733,Speak this text like a narrator,convert_to_audio,speak this text like a narrator
+734,Please make this text into an audio file,convert_to_audio,please make this text into an audio file
+735,Convert this to spoken voice,convert_to_audio,convert this to spoken voice
+736,Create a voice note from this message,convert_to_audio,create a voice note from this message
+737,Read this text as an audio clip,convert_to_audio,read this text as an audio clip
+738,Turn these words into an audible message,convert_to_audio,turn these words into an audible message
+739,Give me an audio message of this,convert_to_audio,give me an audio message of this
+740,I want to hear this read out,convert_to_audio,i want to hear this read out
+741,Read this aloud to me,convert_to_audio,read this aloud to me
+742,Use audio to present this information,convert_to_audio,use audio to present this information
+743,Produce a speech file for this,convert_to_audio,produce a speech file for this
+745,I’d like a voice-based version,convert_to_audio,id like a voicebased version
+746,Can this be turned into an audio summary?,convert_to_audio,can this be turned into an audio summary
+747,Play a voice response for this,convert_to_audio,play a voice response for this
+748,Please audio generate this text,convert_to_audio,please audio generate this text
+749,Say this using a synthetic narrator,convert_to_audio,say this using a synthetic narrator
+750,Please give me a voice output,convert_to_audio,please give me a voice output
+751,Use voice to explain this,convert_to_audio,use voice to explain this
+752,I'd like a verbal version of the input,convert_to_audio,id like a verbal version of the input
+753,Say these lines like a virtual assistant,convert_to_audio,say these lines like a virtual assistant
+754,Speak this out for me,convert_to_audio,speak this out for me
+755,Use artificial voice to narrate this,convert_to_audio,use artificial voice to narrate this
+756,I want this read out with intonation,convert_to_audio,i want this read out with intonation
+757,Give me a computer-generated voice of this,convert_to_audio,give me a computergenerated voice of this
+758,Create a voice interpretation of this,convert_to_audio,create a voice interpretation of this
+759,Turn this written paragraph into a spoken one,convert_to_audio,turn this written paragraph into a spoken one
+760,Let me hear what this would sound like,convert_to_audio,let me hear what this would sound like
+761,Provide an audible translation,convert_to_audio,provide an audible translation
+762,Speak this out like Siri,convert_to_audio,speak this out like siri
+763,Play back the spoken version,convert_to_audio,play back the spoken version
+764,Turn this into something vocal,convert_to_audio,turn this into something vocal
+765,I'd like to hear how this sounds,convert_to_audio,id like to hear how this sounds
+766,Convert this to a playback-friendly format,convert_to_audio,convert this to a playbackfriendly format
+767,Read aloud like a radio host,convert_to_audio,read aloud like a radio host
+768,Make this readable through audio,convert_to_audio,make this readable through audio
+769,Please give me an MP3 version with voice,convert_to_audio,please give me an mp3 version with voice
+770,Can you provide a sound-based explanation?,convert_to_audio,can you provide a soundbased explanation
+771,Use voice output to present this sentence,convert_to_audio,use voice output to present this sentence
+772,Let me experience this via sound,convert_to_audio,let me experience this via sound
+773,Tell me this line,convert_to_audio,tell me this line
+774,Vocalize this line in your voice,convert_to_audio,vocalize this line in your voice
+775,Put this in voice message format,convert_to_audio,put this in voice message format
+776,Give this in a speech bubble format,convert_to_audio,give this in a speech bubble format
+777,Speak this to me like Alexa,convert_to_audio,speak this to me like alexa
+778,Read it out loud digitally,convert_to_audio,read it out loud digitally
+779,Make this paragraph audible,convert_to_audio,make this paragraph audible
+780,I'd like a robotic narration of this,convert_to_audio,id like a robotic narration of this
+781,Create a vocal version of this document,convert_to_audio,create a vocal version of this document
+782,Speak this just like an audiobook,convert_to_audio,speak this just like an audiobook
+783,Convert this for hearing,convert_to_audio,convert this for hearing
+784,Give an audible review of this,convert_to_audio,give an audible review of this
+786,Play the sentence using sound,convert_to_audio,play the sentence using sound
+787,Say this using your synthetic voice generator,convert_to_audio,say this using your synthetic voice generator
+788,Read this with pitch and clarity,convert_to_audio,read this with pitch and clarity
+789,Can I hear the digital speech of this?,convert_to_audio,can i hear the digital speech of this
+790,Convert the statement into a listenable format,convert_to_audio,convert the statement into a listenable format
+791,Give me a podcast-style playback,convert_to_audio,give me a podcaststyle playback
+792,I want this expressed through voice,convert_to_audio,i want this expressed through voice
+793,Play this text via voice reader,convert_to_audio,play this text via voice reader
+794,Speak this paragraph out loud,convert_to_audio,speak this paragraph out loud
+795,Generate a talking version of this,convert_to_audio,generate a talking version of this
+796,Say this out using speech tools,convert_to_audio,say this out using speech tools
+797,Voice-over this part of the text,convert_to_audio,voiceover this part of the text
+798,Can I get a vocalized version of this?,convert_to_audio,can i get a vocalized version of this
+799,Make this into voice synthesis output,convert_to_audio,make this into voice synthesis output
+800,I'd like to listen to this line,convert_to_audio,id like to listen to this line
+801,Narrate the following text,convert_to_audio,narrate the following text
+802,Say this like a digital speaker,convert_to_audio,say this like a digital speaker
+803,Read this content using artificial speech,convert_to_audio,read this content using artificial speech
+804,Give a voice demonstration,convert_to_audio,give a voice demonstration
+805,Speak the following as though presenting,convert_to_audio,speak the following as though presenting
+806,Turn it into a media file with audio,convert_to_audio,turn it into a media file with audio
+807,I want a vocal output of this,convert_to_audio,i want a vocal output of this
+808,Use a synthesized tone to read this,convert_to_audio,use a synthesized tone to read this
+809,Speak these lines with a calm tone,convert_to_audio,speak these lines with a calm tone
+810,Make this content playable through audio,convert_to_audio,make this content playable through audio
+811,I'd like an MP3 narration,convert_to_audio,id like an mp3 narration
+812,Can you speak these words back?,convert_to_audio,can you speak these words back
+813,Use voice AI to deliver this sentence,convert_to_audio,use voice ai to deliver this sentence
+814,Let me hear this section,convert_to_audio,let me hear this section
+815,Convert this paragraph into a sound file,convert_to_audio,convert this paragraph into a sound file
+816,Produce a high-quality voiceover,convert_to_audio,produce a highquality voiceover
+817,Say this line in an announcer's voice,convert_to_audio,say this line in an announcers voice
+818,Transform this text to be heard,convert_to_audio,transform this text to be heard
+819,Please turn this into listenable speech,convert_to_audio,please turn this into listenable speech
+820,Give me an audio feed of this,convert_to_audio,give me an audio feed of this
+821,Play this phrase using your voice tech,convert_to_audio,play this phrase using your voice tech
+822,Speak this line like an AI assistant,convert_to_audio,speak this line like an ai assistant
+823,I want the voice version of the document,convert_to_audio,i want the voice version of the document
+824,Please convert the content to voice tone,convert_to_audio,please convert the content to voice tone
+825,Let me hear a digital voice say this,convert_to_audio,let me hear a digital voice say this
+826,Convert this into vocal storytelling,convert_to_audio,convert this into vocal storytelling
+827,I want this spoken using your voice engine,convert_to_audio,i want this spoken using your voice engine
+828,Say this aloud in a polite tone,convert_to_audio,say this aloud in a polite tone
+829,Produce audio for this text content,convert_to_audio,produce audio for this text content
+830,Play it back like a speech,convert_to_audio,play it back like a speech
+831,Make this sentence audible via speaker,convert_to_audio,make this sentence audible via speaker
+832,Can you voice this excerpt?,convert_to_audio,can you voice this excerpt
+833,I'd like to hear the voice format of this,convert_to_audio,id like to hear the voice format of this
+834,Please synthesize this content as voice,convert_to_audio,please synthesize this content as voice
+835,Can you output this in a spoken form?,convert_to_audio,can you output this in a spoken form
+836,Please convert this text into audio,convert_to_audio,please convert this text into audio
+837,Make this text into a spoken message,convert_to_audio,make this text into a spoken message
+838,Give me an audio playback of these words,convert_to_audio,give me an audio playback of these words
+839,Turn this sentence into voice,convert_to_audio,turn this sentence into voice
+840,Read this text aloud for me,convert_to_audio,read this text aloud for me
+841,Produce an audio version of this content,convert_to_audio,produce an audio version of this content
+842,Speak this text in a natural voice,convert_to_audio,speak this text in a natural voice
+843,Generate a speech recording of this,convert_to_audio,generate a speech recording of this
+844,Make a vocal output for this note,convert_to_audio,make a vocal output for this note
+845,Please read this paragraph as audio,convert_to_audio,please read this paragraph as audio
+846,Turn these notes into a voice message,convert_to_audio,turn these notes into a voice message
+847,Give me a spoken audio clip of this,convert_to_audio,give me a spoken audio clip of this
+848,Say this message using speech synthesis,convert_to_audio,say this message using speech synthesis
+849,Convert this written text to voice,convert_to_audio,convert this written text to voice
+850,Make this content available as audio,convert_to_audio,make this content available as audio
+851,Please say these words in a clear voice,convert_to_audio,please say these words in a clear voice
+852,Create a speech file for this text,convert_to_audio,create a speech file for this text
+853,Read this note out loud,convert_to_audio,read this note out loud
+854,Turn this writing into spoken words,convert_to_audio,turn this writing into spoken words
+855,Produce voice output for this sentence,convert_to_audio,produce voice output for this sentence
+856,Make an audio file from this paragraph,convert_to_audio,make an audio file from this paragraph
+857,Say these lines aloud,convert_to_audio,say these lines aloud
+858,Give me a vocal reading of this message,convert_to_audio,give me a vocal reading of this message
+859,Turn this text into a sound clip,convert_to_audio,turn this text into a sound clip
+860,Please generate a spoken word version,convert_to_audio,please generate a spoken word version
+861,Read these sentences with emotion,convert_to_audio,read these sentences with emotion
+862,Make a voice version of this content,convert_to_audio,make a voice version of this content
+863,Speak this note in an audio file,convert_to_audio,speak this note in an audio file
+864,Produce an audible file from this text,convert_to_audio,produce an audible file from this text
+865,Create a vocal recording of these notes,convert_to_audio,create a vocal recording of these notes
+867,Convert this content to a spoken file,convert_to_audio,convert this content to a spoken file
+868,Make an audio playback of these words,convert_to_audio,make an audio playback of these words
+869,Please read this text with voice,convert_to_audio,please read this text with voice
+870,Turn this note into a voice recording,convert_to_audio,turn this note into a voice recording
+872,Generate speech from this writing,convert_to_audio,generate speech from this writing
+873,Make a spoken audio clip from these lines,convert_to_audio,make a spoken audio clip from these lines
+874,Give me an audio file of this message,convert_to_audio,give me an audio file of this message
+875,Turn this text into vocal sound,convert_to_audio,turn this text into vocal sound
+876,Please produce an audio reading,convert_to_audio,please produce an audio reading
+877,Read this sentence out loud,convert_to_audio,read this sentence out loud
+878,Make a voice file for these sentences,convert_to_audio,make a voice file for these sentences
+879,Say these words as speech,convert_to_audio,say these words as speech
+880,Create an audio recording for this,convert_to_audio,create an audio recording for this
+881,Turn this message into a sound file,convert_to_audio,turn this message into a sound file
+882,Produce an audible version of this text,convert_to_audio,produce an audible version of this text
+883,Read these words with your voice,convert_to_audio,read these words with your voice
+884,Make this note into spoken audio,convert_to_audio,make this note into spoken audio
+885,Please vocalize this paragraph,convert_to_audio,please vocalize this paragraph
+886,Turn this text into a voice message,convert_to_audio,turn this text into a voice message
+888,Create a spoken word file from this,convert_to_audio,create a spoken word file from this
+889,Make an audio clip from these words,convert_to_audio,make an audio clip from these words
+890,Read this text like a story,convert_to_audio,read this text like a story
+891,Produce speech from this sentence,convert_to_audio,produce speech from this sentence
+892,Say this note using natural voice,convert_to_audio,say this note using natural voice
+893,Turn this content into audio playback,convert_to_audio,turn this content into audio playback
+894,Please create a voice recording of this,convert_to_audio,please create a voice recording of this
+895,Make a vocal message from these notes,convert_to_audio,make a vocal message from these notes
+896,Read these sentences out loud,convert_to_audio,read these sentences out loud
+898,Give me a voice playback of this sentence,convert_to_audio,give me a voice playback of this sentence
+899,Turn this text into audio speech,convert_to_audio,turn this text into audio speech
+900,Make this writing into voice output,convert_to_audio,make this writing into voice output
+901,Speak these words out loud for me,convert_to_audio,speak these words out loud for me
+902,Create an audio message from this text,convert_to_audio,create an audio message from this text
+903,Please read this note aloud,convert_to_audio,please read this note aloud
+904,Make a voice version of this message,convert_to_audio,make a voice version of this message
+905,Say this text with expression,convert_to_audio,say this text with expression
+906,Produce a spoken recording of this,convert_to_audio,produce a spoken recording of this
+907,Turn these notes into voice audio,convert_to_audio,turn these notes into voice audio
+908,Read this message with clarity,convert_to_audio,read this message with clarity
+909,Generate a vocal file for this text,convert_to_audio,generate a vocal file for this text
+910,Please speak this paragraph clearly,convert_to_audio,please speak this paragraph clearly
+911,Make an audio narration of this note,convert_to_audio,make an audio narration of this note
+912,Turn this writing into an audio file,convert_to_audio,turn this writing into an audio file
+913,Give me a voice file of these words,convert_to_audio,give me a voice file of these words
+914,Read this text as an audio message,convert_to_audio,read this text as an audio message
+915,Please produce speech from this note,convert_to_audio,please produce speech from this note
+916,Say these lines using voice output,convert_to_audio,say these lines using voice output
+917,Make a spoken audio file from this,convert_to_audio,make a spoken audio file from this
+918,Turn this message into spoken words,convert_to_audio,turn this message into spoken words
+919,Create a voice playback from these notes,convert_to_audio,create a voice playback from these notes
+920,Read this paragraph in an audio format,convert_to_audio,read this paragraph in an audio format
+921,Produce a vocal message from this,convert_to_audio,produce a vocal message from this
+922,Please say this message out loud,convert_to_audio,please say this message out loud
+923,Can you convert this text into spoken words?,convert_to_audio,can you convert this text into spoken words
+925,Make an audio version of this text,convert_to_audio,make an audio version of this text
+926,Turn this sentence into a voice message,convert_to_audio,turn this sentence into a voice message
+927,I want this text spoken,convert_to_audio,i want this text spoken
+928,Give me an audio playback of this paragraph,convert_to_audio,give me an audio playback of this paragraph
+929,Speak this text using your voice,convert_to_audio,speak this text using your voice
+930,Produce a sound file from this writing,convert_to_audio,produce a sound file from this writing
+931,Make a voice recording of this content,convert_to_audio,make a voice recording of this content
+933,Please generate a spoken version of this,convert_to_audio,please generate a spoken version of this
+934,Turn this note into an audio file,convert_to_audio,turn this note into an audio file
+935,Say this message aloud,convert_to_audio,say this message aloud
+936,Create an audio clip of this text,convert_to_audio,create an audio clip of this text
+937,Make a vocal recording from these words,convert_to_audio,make a vocal recording from these words
+938,Convert this paragraph into voice,convert_to_audio,convert this paragraph into voice
+939,Read this text with clear voice,convert_to_audio,read this text with clear voice
+940,Please produce speech from this sentence,convert_to_audio,please produce speech from this sentence
+941,Give me a voice message from this writing,convert_to_audio,give me a voice message from this writing
+942,Speak this note out loud,convert_to_audio,speak this note out loud
+944,Turn this writing into spoken audio,convert_to_audio,turn this writing into spoken audio
+945,Say these lines as a voice recording,convert_to_audio,say these lines as a voice recording
+946,Create an audio version of this message,convert_to_audio,create an audio version of this message
+948,Produce a spoken audio file from this text,convert_to_audio,produce a spoken audio file from this text
+949,Make a voiceover of this sentence,convert_to_audio,make a voiceover of this sentence
+951,Give me a reading voice of this paragraph,convert_to_audio,give me a reading voice of this paragraph
+952,Speak this message with natural tone,convert_to_audio,speak this message with natural tone
+953,Create a speech file from this content,convert_to_audio,create a speech file from this content
+954,Convert this note into an audio clip,convert_to_audio,convert this note into an audio clip
+955,Please say this sentence aloud,convert_to_audio,please say this sentence aloud
+956,Make a voice message from these words,convert_to_audio,make a voice message from these words
+957,Read this text in a clear voice,convert_to_audio,read this text in a clear voice
+958,Produce a vocal version of this note,convert_to_audio,produce a vocal version of this note
+959,Turn these words into an audio file,convert_to_audio,turn these words into an audio file
+960,Say this paragraph in a spoken form,convert_to_audio,say this paragraph in a spoken form
+961,Create a voice recording from this sentence,convert_to_audio,create a voice recording from this sentence
+962,Make this text into a sound message,convert_to_audio,make this text into a sound message
+963,Please read these words aloud,convert_to_audio,please read these words aloud
+964,Turn this message into vocal speech,convert_to_audio,turn this message into vocal speech
+965,Speak this note clearly,convert_to_audio,speak this note clearly
+966,Produce an audio clip for this writing,convert_to_audio,produce an audio clip for this writing
+967,Give me a spoken message from this text,convert_to_audio,give me a spoken message from this text
+968,Make a voice recording of these sentences,convert_to_audio,make a voice recording of these sentences
+969,Turn this text into an audio playback,convert_to_audio,turn this text into an audio playback
+970,Read this note as speech,convert_to_audio,read this note as speech
+971,Please generate a voice file for this message,convert_to_audio,please generate a voice file for this message
+972,Say these words in a vocal format,convert_to_audio,say these words in a vocal format
+973,Create a spoken word file from this text,convert_to_audio,create a spoken word file from this text
+974,Make this paragraph into an audio message,convert_to_audio,make this paragraph into an audio message
+975,Turn this content into speech,convert_to_audio,turn this content into speech
+976,Speak this writing with expression,convert_to_audio,speak this writing with expression
+977,Produce a voiceover from this note,convert_to_audio,produce a voiceover from this note
+978,Read this message aloud for me,convert_to_audio,read this message aloud for me
+979,Give me a vocal reading of this text,convert_to_audio,give me a vocal reading of this text
+980,Make an audio message out of this sentence,convert_to_audio,make an audio message out of this sentence
+981,Turn this text into a voice note,convert_to_audio,turn this text into a voice note
+982,Please say these sentences aloud,convert_to_audio,please say these sentences aloud
+983,Create a voice clip from this paragraph,convert_to_audio,create a voice clip from this paragraph
+984,Make a spoken version of this note,convert_to_audio,make a spoken version of this note
+985,Turn this writing into a speech file,convert_to_audio,turn this writing into a speech file
+987,Produce an audio reading of this text,convert_to_audio,produce an audio reading of this text
+988,Read these words with natural voice,convert_to_audio,read these words with natural voice
+989,Make this note into vocal audio,convert_to_audio,make this note into vocal audio
+991,Please create a spoken message from this,convert_to_audio,please create a spoken message from this
+992,Say these lines with emotion,convert_to_audio,say these lines with emotion
+993,Produce a voice recording of these sentences,convert_to_audio,produce a voice recording of these sentences
+995,Make a vocal version of this message,convert_to_audio,make a vocal version of this message
+996,Turn this sentence into speech,convert_to_audio,turn this sentence into speech
+997,Give me an audio file for this writing,convert_to_audio,give me an audio file for this writing
+998,Speak this note with clarity,convert_to_audio,speak this note with clarity
+999,Create a voice message from this paragraph,convert_to_audio,create a voice message from this paragraph
+1000,Please read this content aloud,convert_to_audio,please read this content aloud
+1001,Make an audio clip from these sentences,convert_to_audio,make an audio clip from these sentences
+1002,Turn this text into a vocal message,convert_to_audio,turn this text into a vocal message
+1003,Say this paragraph with expression,convert_to_audio,say this paragraph with expression
+1004,Produce a spoken word message from this,convert_to_audio,produce a spoken word message from this
+1005,Read this note in a clear voice,convert_to_audio,read this note in a clear voice
+1006,Make a voice file of these words,convert_to_audio,make a voice file of these words
+1007,Turn this writing into vocal speech,convert_to_audio,turn this writing into vocal speech
+1008,Speak this message out loud for me,convert_to_audio,speak this message out loud for me
+1009,Create an audio recording of this note,convert_to_audio,create an audio recording of this note
+1010,Please say this sentence clearly,convert_to_audio,please say this sentence clearly
+1011,Make a spoken recording of this text,convert_to_audio,make a spoken recording of this text
+1012,Turn these words into an audio recording,convert_to_audio,turn these words into an audio recording
+1013,Convert this text into an audio file,convert_to_audio,convert this text into an audio file
+1014,Please read this message out loud,convert_to_audio,please read this message out loud
+1015,Make a voice version of this paragraph,convert_to_audio,make a voice version of this paragraph
+1016,Turn these words into spoken audio,convert_to_audio,turn these words into spoken audio
+1017,I want to hear this as a voice message,convert_to_audio,i want to hear this as a voice message
+1018,Speak this text clearly,convert_to_audio,speak this text clearly
+1019,Produce an audio reading of this note,convert_to_audio,produce an audio reading of this note
+1020,Make this sentence into a speech file,convert_to_audio,make this sentence into a speech file
+1021,Give me a vocal playback of this text,convert_to_audio,give me a vocal playback of this text
+1022,Please say this paragraph aloud,convert_to_audio,please say this paragraph aloud
+1023,Create an audio message from this content,convert_to_audio,create an audio message from this content
+1024,Turn this writing into a voice clip,convert_to_audio,turn this writing into a voice clip
+1025,Read these words aloud for me,convert_to_audio,read these words aloud for me
+1026,Make a spoken recording from this text,convert_to_audio,make a spoken recording from this text
+1027,Convert this note into vocal speech,convert_to_audio,convert this note into vocal speech
+1029,Produce a voice file from this paragraph,convert_to_audio,produce a voice file from this paragraph
+1030,Please make an audio version of this message,convert_to_audio,please make an audio version of this message
+1031,Give me a reading voice of this sentence,convert_to_audio,give me a reading voice of this sentence
+1032,Turn this content into spoken words,convert_to_audio,turn this content into spoken words
+1033,Speak this note loudly,convert_to_audio,speak this note loudly
+1034,Make a voice clip from these words,convert_to_audio,make a voice clip from these words
+1035,Read this text with a clear voice,convert_to_audio,read this text with a clear voice
+1036,Create a spoken version of this writing,convert_to_audio,create a spoken version of this writing
+1037,Turn these sentences into an audio recording,convert_to_audio,turn these sentences into an audio recording
+1038,Please say this message aloud,convert_to_audio,please say this message aloud
+1039,Make a vocal recording of this note,convert_to_audio,make a vocal recording of this note
+1040,Convert this text to a voice message,convert_to_audio,convert this text to a voice message
+1041,Give me an audio file of this paragraph,convert_to_audio,give me an audio file of this paragraph
+1042,Speak this sentence clearly,convert_to_audio,speak this sentence clearly
+1043,Produce speech audio from this writing,convert_to_audio,produce speech audio from this writing
+1044,Please read this note loudly,convert_to_audio,please read this note loudly
+1046,Turn this sentence into spoken audio,convert_to_audio,turn this sentence into spoken audio
+1047,Say this paragraph as a voice clip,convert_to_audio,say this paragraph as a voice clip
+1048,Create a voice recording from these words,convert_to_audio,create a voice recording from these words
+1049,Read this message out loud for me,convert_to_audio,read this message out loud for me
+1050,Make a vocal playback of this text,convert_to_audio,make a vocal playback of this text
+1052,Speak this note with clear tone,convert_to_audio,speak this note with clear tone
+1053,Produce an audio clip from this sentence,convert_to_audio,produce an audio clip from this sentence
+1054,Please say this paragraph loudly,convert_to_audio,please say this paragraph loudly
+1055,Make a voice message of these words,convert_to_audio,make a voice message of these words
+1056,Convert this note into vocal audio,convert_to_audio,convert this note into vocal audio
+1057,Give me a spoken version of this text,convert_to_audio,give me a spoken version of this text
+1058,Speak this sentence with emotion,convert_to_audio,speak this sentence with emotion
+1059,Produce an audio recording of this note,convert_to_audio,produce an audio recording of this note
+1060,Please read this text aloud clearly,convert_to_audio,please read this text aloud clearly
+1061,Make an audio playback of this sentence,convert_to_audio,make an audio playback of this sentence
+1062,Turn this writing into a voice message,convert_to_audio,turn this writing into a voice message
+1063,Say these words as a vocal clip,convert_to_audio,say these words as a vocal clip
+1064,Create a spoken word file from this note,convert_to_audio,create a spoken word file from this note
+1065,Read this paragraph with clear voice,convert_to_audio,read this paragraph with clear voice
+1066,Make a voice file of this message,convert_to_audio,make a voice file of this message
+1067,Turn this text into speech audio,convert_to_audio,turn this text into speech audio
+1068,Speak this message clearly for me,convert_to_audio,speak this message clearly for me
+1069,Produce a vocal recording from this text,convert_to_audio,produce a vocal recording from this text
+1070,Please say this note out loud,convert_to_audio,please say this note out loud
+1071,Make an audio file from these words,convert_to_audio,make an audio file from these words
+1072,Turn this sentence into a voice clip,convert_to_audio,turn this sentence into a voice clip
+1074,Speak this writing with clarity,convert_to_audio,speak this writing with clarity
+1075,Produce a voiceover of this note,convert_to_audio,produce a voiceover of this note
+1077,Make a vocal version of this text,convert_to_audio,make a vocal version of this text
+1078,Turn this paragraph into a spoken message,convert_to_audio,turn this paragraph into a spoken message
+1079,Say these sentences with expression,convert_to_audio,say these sentences with expression
+1080,Create a voice clip from this writing,convert_to_audio,create a voice clip from this writing
+1081,Please read this note with a clear voice,convert_to_audio,please read this note with a clear voice
+1082,Make an audio recording of this paragraph,convert_to_audio,make an audio recording of this paragraph
+1083,Turn these words into a vocal message,convert_to_audio,turn these words into a vocal message
+1084,Speak this text with clear pronunciation,convert_to_audio,speak this text with clear pronunciation
+1085,Produce an audio file from this message,convert_to_audio,produce an audio file from this message
+1086,Please say this paragraph with emotion,convert_to_audio,please say this paragraph with emotion
+1088,Turn this writing into a voice note,convert_to_audio,turn this writing into a voice note
+1089,Say this message clearly for me,convert_to_audio,say this message clearly for me
+1090,Give me an audio version of this sentence,convert_to_audio,give me an audio version of this sentence
+1091,Speak this note out loud with clarity,convert_to_audio,speak this note out loud with clarity
+1093,Please read this message aloud with feeling,convert_to_audio,please read this message aloud with feeling
+1094,Make an audio clip of this writing,convert_to_audio,make an audio clip of this writing
+1095,Turn this text into a spoken audio message,convert_to_audio,turn this text into a spoken audio message
+1096,Say this sentence as a voice message,convert_to_audio,say this sentence as a voice message
+1097,Produce a vocal recording from these words,convert_to_audio,produce a vocal recording from these words
+1098,Read this paragraph aloud for me,convert_to_audio,read this paragraph aloud for me
+1099,Make a voice file of this note,convert_to_audio,make a voice file of this note
+1100,Turn these words into an audio clip,convert_to_audio,turn these words into an audio clip
+1101,Speak this text with natural tone,convert_to_audio,speak this text with natural tone
+1102,Produce a spoken word message from this content,convert_to_audio,produce a spoken word message from this content
+1103,Please say this writing aloud,convert_to_audio,please say this writing aloud
+1104,Make an audio message from these sentences,convert_to_audio,make an audio message from these sentences
+1105,Convert this paragraph into an audio message,convert_to_audio,convert this paragraph into an audio message
+1107,Make this writing into a spoken file,convert_to_audio,make this writing into a spoken file
+1108,Turn these sentences into voice playback,convert_to_audio,turn these sentences into voice playback
+1109,I want to listen to this text as audio,convert_to_audio,i want to listen to this text as audio
+1110,Read this out loud for me,convert_to_audio,read this out loud for me
+1111,Produce a voice version of this note,convert_to_audio,produce a voice version of this note
+1112,Create an audio file from this message,convert_to_audio,create an audio file from this message
+1113,Please say these words in audio,convert_to_audio,please say these words in audio
+1114,Make a speech audio from this paragraph,convert_to_audio,make a speech audio from this paragraph
+1115,Turn this text into a spoken voice file,convert_to_audio,turn this text into a spoken voice file
+1116,Speak this sentence in a clear voice,convert_to_audio,speak this sentence in a clear voice
+1117,Give me a vocal recording of this message,convert_to_audio,give me a vocal recording of this message
+1118,Convert these notes to a voice clip,convert_to_audio,convert these notes to a voice clip
+1119,Say this message with expression,convert_to_audio,say this message with expression
+1120,Produce an audio playback of this writing,convert_to_audio,produce an audio playback of this writing
+1121,Please read this sentence aloud,convert_to_audio,please read this sentence aloud
+1122,Make a voice file out of these words,convert_to_audio,make a voice file out of these words
+1123,Turn this text into an audio recording,convert_to_audio,turn this text into an audio recording
+1124,Speak this note clearly and loudly,convert_to_audio,speak this note clearly and loudly
+1125,Create a vocal message from this paragraph,convert_to_audio,create a vocal message from this paragraph
+1126,Read this writing aloud for me,convert_to_audio,read this writing aloud for me
+1127,Make a speech file from these sentences,convert_to_audio,make a speech file from these sentences
+1128,Turn this note into spoken audio,convert_to_audio,turn this note into spoken audio
+1129,Say this text with clear pronunciation,convert_to_audio,say this text with clear pronunciation
+1130,Produce a vocal clip of this message,convert_to_audio,produce a vocal clip of this message
+1131,Please say this paragraph in voice,convert_to_audio,please say this paragraph in voice
+1132,Make an audio reading of this text,convert_to_audio,make an audio reading of this text
+1133,Turn these sentences into a voice recording,convert_to_audio,turn these sentences into a voice recording
+1135,Give me a voiceover of this writing,convert_to_audio,give me a voiceover of this writing
+1136,Convert this note to audio playback,convert_to_audio,convert this note to audio playback
+1137,Please vocalize these words,convert_to_audio,please vocalize these words
+1138,Make a spoken word file from this paragraph,convert_to_audio,make a spoken word file from this paragraph
+1139,Turn this message into voice audio,convert_to_audio,turn this message into voice audio
+1140,Say this writing clearly and loudly,convert_to_audio,say this writing clearly and loudly
+1141,Produce a voice message from this note,convert_to_audio,produce a voice message from this note
+1142,Please read this sentence with feeling,convert_to_audio,please read this sentence with feeling
+1145,Speak this message with emotion,convert_to_audio,speak this message with emotion
+1146,Create a vocal recording of this paragraph,convert_to_audio,create a vocal recording of this paragraph
+1147,Read this note aloud with clarity,convert_to_audio,read this note aloud with clarity
+1148,Make a voice file from this writing,convert_to_audio,make a voice file from this writing
+1149,Turn this text into speech playback,convert_to_audio,turn this text into speech playback
+1150,Speak this note clearly for me,convert_to_audio,speak this note clearly for me
+1151,Produce an audio recording of this message,convert_to_audio,produce an audio recording of this message
+1152,Please say this paragraph out loud,convert_to_audio,please say this paragraph out loud
+1153,Make a vocal playback of these words,convert_to_audio,make a vocal playback of these words
+1154,Turn this writing into an audio message,convert_to_audio,turn this writing into an audio message
+1155,Say this message in a clear voice,convert_to_audio,say this message in a clear voice
+1156,Create a spoken version of this note,convert_to_audio,create a spoken version of this note
+1157,Read this paragraph aloud with expression,convert_to_audio,read this paragraph aloud with expression
+1158,Make a voice clip from this text,convert_to_audio,make a voice clip from this text
+1159,Turn these sentences into voice audio,convert_to_audio,turn these sentences into voice audio
+1160,Speak this writing clearly and softly,convert_to_audio,speak this writing clearly and softly
+1161,Produce a voice recording of this message,convert_to_audio,produce a voice recording of this message
+1162,Please say this note with emotion,convert_to_audio,please say this note with emotion
+1163,Make an audio version of this paragraph,convert_to_audio,make an audio version of this paragraph
+1165,Say these words aloud for me,convert_to_audio,say these words aloud for me
+1166,Create an audio file from this note,convert_to_audio,create an audio file from this note
+1167,Read this message clearly for me,convert_to_audio,read this message clearly for me
+1168,Make a voice message out of this writing,convert_to_audio,make a voice message out of this writing
+1169,Turn these sentences into a spoken clip,convert_to_audio,turn these sentences into a spoken clip
+1170,Speak this paragraph with clarity,convert_to_audio,speak this paragraph with clarity
+1171,Produce a vocal clip from this text,convert_to_audio,produce a vocal clip from this text
+1172,Please read this note with clear voice,convert_to_audio,please read this note with clear voice
+1173,Make an audio recording of these sentences,convert_to_audio,make an audio recording of these sentences
+1175,Say this text with clear enunciation,convert_to_audio,say this text with clear enunciation
+1176,Create a voice file from this paragraph,convert_to_audio,create a voice file from this paragraph
+1177,Read this sentence out loud for me,convert_to_audio,read this sentence out loud for me
+1178,Make a vocal playback of this note,convert_to_audio,make a vocal playback of this note
+1180,Speak this message softly,convert_to_audio,speak this message softly
+1181,Produce a spoken word file from this message,convert_to_audio,produce a spoken word file from this message
+1182,Please say this writing aloud clearly,convert_to_audio,please say this writing aloud clearly
+1183,Make an audio message from this text,convert_to_audio,make an audio message from this text
+1184,Can you make this spoken content?,convert_to_audio,can you make this spoken content
+1185,Convert this into a voice narration,convert_to_audio,convert this into a voice narration
+1186,Give me a soundbite version,convert_to_audio,give me a soundbite version
+1187,I'd prefer to hear this text,convert_to_audio,id prefer to hear this text
+1188,Speak this in a professional tone,convert_to_audio,speak this in a professional tone
+1189,Narrate this out loud,convert_to_audio,narrate this out loud
+1190,Turn this into something I can play,convert_to_audio,turn this into something i can play
+1191,Read this like an audio assistant,convert_to_audio,read this like an audio assistant
+1192,I want to listen to this instead,convert_to_audio,i want to listen to this instead
+1193,Give me an audio expression of this,convert_to_audio,give me an audio expression of this
+1194,Say this using automated voice,convert_to_audio,say this using automated voice
+1195,Generate a narrated voice track,convert_to_audio,generate a narrated voice track
+1196,I'd like this in voice narration form,convert_to_audio,id like this in voice narration form
+1197,Speak these lines like an AI,convert_to_audio,speak these lines like an ai
+1198,Produce a vocal readout,convert_to_audio,produce a vocal readout
+1199,Tell me what’s written here,convert_to_audio,tell me whats written here
+1200,Use a human-like voice to say this,convert_to_audio,use a humanlike voice to say this
+1201,Can I hear a reading of this?,convert_to_audio,can i hear a reading of this
+1202,I'd enjoy hearing this spoken,convert_to_audio,id enjoy hearing this spoken
+1203,Give me an audio playback of the text,convert_to_audio,give me an audio playback of the text
+1204,Please convert this document to audio,convert_to_audio,please convert this document to audio
+1205,Convert this chat into voice,convert_to_audio,convert this chat into voice
+1206,Voice synthesize this response,convert_to_audio,voice synthesize this response
+1207,Can you play this in speech format?,convert_to_audio,can you play this in speech format
+1208,Say these instructions using voice,convert_to_audio,say these instructions using voice
+1209,Transform this chat message into sound,convert_to_audio,transform this chat message into sound
+1210,I'd love to hear it spoken,convert_to_audio,id love to hear it spoken
+1211,Speak this back to me like a narrator,convert_to_audio,speak this back to me like a narrator
+1212,Use audio synthesis to vocalize this,convert_to_audio,use audio synthesis to vocalize this
+1213,Let me hear what this sentence sounds like,convert_to_audio,let me hear what this sentence sounds like
+1214,Say this out using your speech engine,convert_to_audio,say this out using your speech engine
+1215,Speak the following using text-to-speech,convert_to_audio,speak the following using texttospeech
+1216,Provide a verbal conversion of this,convert_to_audio,provide a verbal conversion of this
+1217,Say it like you're reading a script,convert_to_audio,say it like youre reading a script
+1218,Render this via speech generation,convert_to_audio,render this via speech generation
+1219,I'd like to hear this part out loud,convert_to_audio,id like to hear this part out loud
+1220,Turn this written material into audio,convert_to_audio,turn this written material into audio
+1221,Speak this input as a voice reply,convert_to_audio,speak this input as a voice reply
+1222,Can you voice this out with clarity?,convert_to_audio,can you voice this out with clarity
+1223,Use digital speech to express this,convert_to_audio,use digital speech to express this
+1224,Read this back to me in voice format,convert_to_audio,read this back to me in voice format
+1225,I need to hear this in spoken tone,convert_to_audio,i need to hear this in spoken tone
+1226,Say this aloud in a clear voice,convert_to_audio,say this aloud in a clear voice
+1227,Convert this info into a voice clip,convert_to_audio,convert this info into a voice clip
+1228,I'd like to play this sentence,convert_to_audio,id like to play this sentence
+1229,Make a voice file of this,convert_to_audio,make a voice file of this
+1230,Can you read this text using a voice tool?,convert_to_audio,can you read this text using a voice tool
+1231,Let me hear this through voice rendering,convert_to_audio,let me hear this through voice rendering
+1232,Turn this into audio using a robotic voice,convert_to_audio,turn this into audio using a robotic voice
+1233,Narrate this text as if reading to an audience,convert_to_audio,narrate this text as if reading to an audience
+1234,I'd like this converted to an audio clip,convert_to_audio,id like this converted to an audio clip
+1235,Speak this part using a virtual assistant tone,convert_to_audio,speak this part using a virtual assistant tone
+1236,I want this message spoken by AI,convert_to_audio,i want this message spoken by ai
+1237,Use voice technology to say this,convert_to_audio,use voice technology to say this
+1238,Speak it like a synthetic reader,convert_to_audio,speak it like a synthetic reader
+1239,Voice render this entire message,convert_to_audio,voice render this entire message
+1240,Please make this spoken version available,convert_to_audio,please make this spoken version available
+1241,Can this be heard using voice tech?,convert_to_audio,can this be heard using voice tech
+1242,Say this as an automated assistant,convert_to_audio,say this as an automated assistant
+1243,I need this as a voice output now,convert_to_audio,i need this as a voice output now
+1244,Read this through an audio interface,convert_to_audio,read this through an audio interface
+1245,I'd like this transformed into audio,convert_to_audio,id like this transformed into audio
+1246,Convert this note into something audible,convert_to_audio,convert this note into something audible
+1247,Produce a voice summary,convert_to_audio,produce a voice summary
+1248,Please read this text out loud digitally,convert_to_audio,please read this text out loud digitally
+1249,Say this phrase using your vocal module,convert_to_audio,say this phrase using your vocal module
+1250,Convert this into speech that I can hear,convert_to_audio,convert this into speech that i can hear
+1251,I'd rather hear this out,convert_to_audio,id rather hear this out
+1252,Use AI to say this message,convert_to_audio,use ai to say this message
+1253,Play this message with voice AI,convert_to_audio,play this message with voice ai
+1254,Let me hear this reply in speech,convert_to_audio,let me hear this reply in speech
+1255,Please speak this portion,convert_to_audio,please speak this portion
+1256,Give me audio content for this,convert_to_audio,give me audio content for this
+1257,Can I get this as an audible file?,convert_to_audio,can i get this as an audible file
+1258,Tell this to me out loud,convert_to_audio,tell this to me out loud
+1259,Say this sentence using your voice system,convert_to_audio,say this sentence using your voice system
+1260,Read out loud this part,convert_to_audio,read out loud this part
+1261,Use your speech module to say this,convert_to_audio,use your speech module to say this
+1262,Play a voice clip with this content,convert_to_audio,play a voice clip with this content
+1263,Say this so I can hear it,convert_to_audio,say this so i can hear it
+1264,I'd like to hear this now,convert_to_audio,id like to hear this now
+1266,Read the input like a podcast,convert_to_audio,read the input like a podcast
+1267,Give me audio delivery of this info,convert_to_audio,give me audio delivery of this info
+1268,Please use voice to say this message,convert_to_audio,please use voice to say this message
+1269,Can you make an MP3 audio from this?,convert_to_audio,can you make an mp3 audio from this
+1270,Say this section with synthesized voice,convert_to_audio,say this section with synthesized voice
+1271,Turn this paragraph into a speech format,convert_to_audio,turn this paragraph into a speech format
+1272,Convert this chat to a sound clip,convert_to_audio,convert this chat to a sound clip
+1273,Produce a clear spoken file,convert_to_audio,produce a clear spoken file
+1274,I'd like to hear this text narrated,convert_to_audio,id like to hear this text narrated
+1275,Read this aloud as a message,convert_to_audio,read this aloud as a message
+1276,Speak this passage using automated reading,convert_to_audio,speak this passage using automated reading
+1277,Turn this string into a voice format,convert_to_audio,turn this string into a voice format
+1278,Generate audio from these sentences,convert_to_audio,generate audio from these sentences
+1279,Say it as if you are a news presenter,convert_to_audio,say it as if you are a news presenter
+1280,Please read this like an audio response,convert_to_audio,please read this like an audio response
+1281,Transform this written line to audio,convert_to_audio,transform this written line to audio
+1282,Use your voice model to speak this,convert_to_audio,use your voice model to speak this
+1283,Play this script aloud,convert_to_audio,play this script aloud
