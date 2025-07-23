@@ -1,0 +1,2 @@
+
+    print("Transcribed text:", transcript)
