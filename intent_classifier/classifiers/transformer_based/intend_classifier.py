@@ -3,7 +3,7 @@ from transformers import BertForSequenceClassification, BertTokenizer
 import joblib
 from pathlib import Path
 
-base_dir = Path(r"G:\\Cdac\\ML_Final_Project\\Multi-Modal-multi-Purpose-AI-agent\\intent_classifier\\classifiers\\transformer_based\\intent_model")
+base_dir = Path(r"intent_classifier/classifier/stransformer_based/intent_model")
 
 model = BertForSequenceClassification.from_pretrained(str(base_dir.resolve()))
 tokenizer = BertTokenizer.from_pretrained(str(base_dir.resolve()))

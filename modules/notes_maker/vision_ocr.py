@@ -3,7 +3,7 @@ import io
 from google.cloud import vision
 
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "G:\\Cdac\\ML_Final_Project\\Multi-Modal-multi-Purpose-AI-agent\\modules\\notes_maker\\diesel-ability-458914-q4-c7d4e19a47bb.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "modules/notes_maker/diesel-ability-458914-q4-c7d4e19a47bb.json"
 
 
 def extract_text_from_image(image_path):

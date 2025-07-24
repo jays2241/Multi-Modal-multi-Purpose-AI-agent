@@ -22,7 +22,7 @@ def get_gmail_service():
         else:
 
             flow = InstalledAppFlow.from_client_secrets_file(
-                'G:\Cdac\ML_Final_Project\Multi-Modal-multi-Purpose-AI-agent\credentials\client_secret_13233244404-4ld1lfri2r07gplv95gna1j2mk1r4bg5.apps.googleusercontent.com.json', SCOPES)
+                '\credentials\client_secret_13233244404-4ld1lfri2r07gplv95gna1j2mk1r4bg5.apps.googleusercontent.com.json', SCOPES)
             creds = flow.run_local_server(port=0)
 
         with open('token.json', 'wb') as token:
