@@ -1,7 +1,7 @@
 import joblib
 
-vectorizer = joblib.load("modules\\gmail\\sub_intent_classifier\\model\\tfidf_vectorizer.pkl")
-model = joblib.load("modules\\gmail\\sub_intent_classifier\\model\\sub_intent_model.pkl")
+vectorizer = joblib.load("modules/gmail/sub_intent_classifier/model/tfidf_vectorizer.pkl")
+model = joblib.load("modules/gmail/sub_intent_classifier/model/sub_intent_model.pkl")
 
 def predict_sub_intent(user_input):
     X = vectorizer.transform([user_input])
