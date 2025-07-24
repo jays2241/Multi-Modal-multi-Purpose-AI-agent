@@ -9,7 +9,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-model_path = "intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl"
+model_path = "intent_classifier\\classifiers\\ml_based\\model\\intent_classifier_pipeline.pkl"
 
 try:
     with open(model_path, "rb") as f:

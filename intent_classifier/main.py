@@ -2,7 +2,7 @@ from .classifiers.ml_based.test import predict_intent
 from .classifiers.rule_based.rule_based_intent_classifier import classify_intent as rule_based_classify_intent
 from .classifiers.transformer_based.intend_classifier import predict_intent as transformer_predict_intent
 
-def classify_intent(text, method='rule_based'):
+def classify_intent(text, method='ml'):
 
     if method == 'ml':
         return predict_intent(text)
@@ -14,7 +14,7 @@ def classify_intent(text, method='rule_based'):
         raise ValueError("Invalid method specified. Choose from 'ml', 'rule_based', or 'transformer'.")
 
 if __name__ == "__main__":
-    method = 'transformer'
+    method = 'ml'
     print(f"using {method} method for intent classification")
     while True:
         user_input = input("Enter your query (or type 'exit' to quit): ")

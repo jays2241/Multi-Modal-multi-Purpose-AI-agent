@@ -1,9 +1,11 @@
 from modules.notes_maker.notes_maker import make_notes_from_image
 from modules.text_to_audio.text_to_audio import convert_text_to_audio
-from intent_classifier.main import predict_intent
-from modules.general_chatting.chat import return_chat
+from intent_classifier.main import classify_intent as predict_intent
+# from modules.general_chatting.chat import return_chat
 from modules.stock_market_sentiment.stock_sentiment import analyze_stock_sentiment
 from modules.stock_market_sentiment.name_extractor import extract_company_name
+from modules.gmail.sub_intent_classifier.gmail_sub_intent_classifier import predict_sub_intent
+from modules.gmail.gmail_main import gmail_operation
 
 def handle_make_notes():
     image_path = input("Enter the path to the image: ")
@@ -14,12 +16,12 @@ def handle_make_notes():
     except Exception as e:
         print(f"Error in making notes: {e}")
 
-def handle_general_chat(user_input):
-    try:
-        chat_response = return_chat(user_input)
-        print("Chat Response:", chat_response)
-    except Exception as e:
-        print(f"Chat module failed: {e}")
+# def handle_general_chat(user_input):
+#     try:
+#         chat_response = return_chat(user_input)
+#         print("Chat Response:", chat_response)
+#     except Exception as e:
+#         print(f"Chat module failed: {e}")
 
 def handle_stock_sentiment(user_input):
     company_name, news_url = extract_company_name(user_input)
@@ -47,6 +49,22 @@ def handle_audio_summary():
     except Exception as e:
         print(f"Audio summarization failed: {e}")
 
+def handle_gmail_operations(user_input):
+    try:
+        response = gmail_operation(user_input)
+        if isinstance(response, list):
+            for idx, email in enumerate(response, 1):
+                print(f"\nEmail {idx}")
+                print("From:", email['From'])
+                print("Subject:", email['Subject'])
+                print("Date:", email['Date'])
+                print("Snippet:", email['Snippet'])
+                print("Body:", email['Body'])
+        else:
+            print(response)
+    except Exception as e:
+        print(f"Gmail operation failed: {e}")
+
 def main():
     print("AI Agent Initialized. Type 'exit' to quit.")
     while True:
@@ -63,8 +81,8 @@ def main():
 
         if intent == "make_notes":
             handle_make_notes()
-        elif intent == "general_chat":
-            handle_general_chat(user_input)
+        # elif intent == "general_chat":
+        #     handle_general_chat(user_input)
         elif intent == "flipkart_product_sentiment":
             print("Flipkart sentiment analysis not yet implemented.")
         elif intent == "stock_sentiment":
@@ -73,8 +91,8 @@ def main():
             handle_convert_to_audio()
         elif intent == "summarize_audio":
             handle_audio_summary()
-        elif intent == "important email":
-            print("Important email analysis not yet implemented.")
+        elif intent == "gmail_operations":
+            handle_gmail_operations(user_input)
         else:
             print("Unknown intent. Try again.")
 

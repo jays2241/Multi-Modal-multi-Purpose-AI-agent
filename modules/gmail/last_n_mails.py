@@ -1,6 +1,14 @@
-from gmail_auth import get_gmail_service
+from modules.gmail.gmail_auth import get_gmail_service
 import base64
 from bs4 import BeautifulSoup
+import re
+
+def extract_count(text):
+    match = re.search(r'\b(?:last|recent|past|pervious)?\s*(\d+)\s*(emails|mails|messages)?', text, re.IGNORECASE)
+    if match:
+        return int(match.group(1))
+    return None
+
 
 def get_last_n_emails(n=5):
     service = get_gmail_service()
@@ -32,7 +40,7 @@ def get_last_n_emails(n=5):
             elif header['name'] == 'Date':
                 email_info['Date'] = header['value']
 
-        # Extract the body
+  
         body = ''
         parts = payload.get('parts', [])
 
@@ -60,7 +68,7 @@ if __name__ == "__main__":
     emails = get_last_n_emails(n=10)
 
     for idx, email in enumerate(emails, 1):
-        print(f"\n📧 Email {idx}")
+        print(f"\nEmail {idx}")
         print("From:", email['From'])
         print("Subject:", email['Subject'])
         print("Date:", email['Date'])

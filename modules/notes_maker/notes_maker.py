@@ -1,5 +1,5 @@
-from vision_ocr import extract_text_from_image
-from gpt_formatter import format_text_with_gpt
+from .vision_ocr import extract_text_from_image
+from .gpt_formatter import format_text_with_gpt
 
 
 def make_notes_from_image(image_path):
