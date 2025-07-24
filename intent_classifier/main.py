@@ -1,6 +1,6 @@
 from .classifiers.ml_based.test import predict_intent
 from .classifiers.rule_based.rule_based_intent_classifier import classify_intent as rule_based_classify_intent
-from .classifiers.transformer_based.intend_classifier import predict_intent as transformer_predict_intent
+# from .classifiers.transformer_based.intend_classifier import predict_intent as transformer_predict_intent
 
 def classify_intent(text, method='ml'):
 
@@ -8,8 +8,8 @@ def classify_intent(text, method='ml'):
         return predict_intent(text)
     elif method == 'rule_based':
         return rule_based_classify_intent(text)
-    elif method == 'transformer':
-        return transformer_predict_intent(text)
+    # elif method == 'transformer':
+    #     return transformer_predict_intent(text)
     else:
         raise ValueError("Invalid method specified. Choose from 'ml', 'rule_based', or 'transformer'.")
 
