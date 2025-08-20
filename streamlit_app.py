@@ -1,8 +1,8 @@
-# ------------------------Import necessary libraries-------------------
+# ------------------------Import necessary libraries--------------------
 import streamlit as st
 import logging
 import tempfile
-import os
+import os 
 from modules.notes_maker.notes_maker import make_notes_from_image
 from modules.text_to_audio.text_to_audio import convert_text_to_audio
 from modules.general_chatting.chat import return_chat

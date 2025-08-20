@@ -3,7 +3,7 @@ from .classifiers.rule_based.rule_based_intent_classifier import classify_intent
 # from .classifiers.transformer_based.intend_classifier import predict_intent as transformer_predict_intent
 
 def classify_intent(text, method='ml'):
-
+ 
     if method == 'ml':
         return predict_intent(text)
     elif method == 'rule_based':

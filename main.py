@@ -1,11 +1,11 @@
 from modules.notes_maker.notes_maker import make_notes_from_image
 from modules.text_to_audio.text_to_audio import convert_text_to_audio
 from intent_classifier.main import classify_intent as predict_intent
-# from modules.general_chatting.chat import return_chat
+# from modules.general_chatting.chat import return_chat-
 from modules.stock_market_sentiment.stock_sentiment import analyze_stock_sentiment
 from modules.stock_market_sentiment.name_extractor import extract_company_name
 from modules.gmail.sub_intent_classifier.gmail_sub_intent_classifier import predict_sub_intent
-from modules.gmail.gmail_main import gmail_operation
+from modules.gmail.gmail_main import gmail_operation 
 
 def handle_make_notes():
     image_path = input("Enter the path to the image: ")
